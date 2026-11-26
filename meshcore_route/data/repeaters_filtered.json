@@ -100,6 +100,46 @@
   "_manual": false
  },
  {
+  "public_key": "05edcfbcb889c56b10a4bfdbffd61be0453736ede56fcf64e07687b33e16ee7b",
+  "type": 2,
+  "adv_name": "D-HE-F VFDB Z05 #16",
+  "last_advert": "2026-11-20T23:29:48+00:00",
+  "lat": 50.1225,
+  "lon": 8.63652,
+  "inserted_date": "2026-10-17T00:09:38+00:00",
+  "updated_date": "2026-11-21T00:29:44+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "120005edcfbcb889c56b10a4bfdbffd61be0453736ede56fcf64e07687b33e16ee7bfce5006b0cbb108f4727882ff5a7796181f090bfe4abd98aaff8af4603e7dbef66475f84d754d1a5fbdff4d2cfddd5b7544969438ae99cd0bb1ff7abe21853bd9d4cb70d92d6cefc0266c88300442d48452d462056464442205a303520233136",
+  "source": "u",
+  "_age_days": 5.3,
+  "_manual": false
+ },
+ {
+  "public_key": "074b0da56c901eb4c583552517ef147c99316ed6ac8e6741f323859f4cf7b45d",
+  "type": 2,
+  "adv_name": "KatS-KG Waizenbach",
+  "last_advert": "2026-11-26T04:39:42+00:00",
+  "lat": 50.1334,
+  "lon": 9.7788,
+  "inserted_date": "2026-11-10T11:19:31+00:00",
+  "updated_date": "2026-11-26T05:40:19+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10ea49000087f3ef9d0ab491f8e2aa8509185fd8f5e3790ab205ff074b0da56c901eb4c583552517ef147c99316ed6ac8e6741f323859f4cf7b45d1ec6076b1ed51b3a9445eb912a2f7b39feeadc6c949c20ef3e031582735b091b2dc7f1020ad2121b8abb1d4709a5a304eb153afe6773911fa8cfc7b0a89d103ad4c9f10c9269f9fc02753695004b6174532d4b47205761697a656e62616368",
+  "source": "u",
+  "_age_days": 0.1,
+  "_manual": false
+ },
+ {
   "public_key": "07f0c69eef44e34886a568f0968fce8ea8aa02767a949d23d08759978e4c8acb",
   "type": 2,
   "adv_name": "IHW@Langen",
@@ -140,6 +180,46 @@
   "_manual": false
  },
  {
+  "public_key": "08c0ffee6655f300d652531c13d2d16b767e04e4a211c86e41bb2fb7686366a6",
+  "type": 2,
+  "adv_name": "DE-HE-FFM Gallus ",
+  "last_advert": "2026-11-25T18:40:27+00:00",
+  "lat": 50.1007,
+  "lon": 8.63133,
+  "inserted_date": "2026-08-13T18:08:34+00:00",
+  "updated_date": "2026-11-25T19:40:39+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1103185d5a08c0ffee6655f300d652531c13d2d16b767e04e4a211c86e41bb2fb7686366a6ab39076b9e32d896d4dcf87c09481dc04a3566c6bf2cb237ab5bdd41df8a60657e939f80e96e0bf052ec760a3660299e84612f3986d7f4c716aa9aec4862189115a3d30e92eb79fc0222b4830044452d48452d46464d2047616c6c757320",
+  "source": "u",
+  "_age_days": 0.5,
+  "_manual": false
+ },
+ {
+  "public_key": "09cc0756af467eaa7aebdb7630ba94d508ee6416acfea2398bcfc051a4330748",
+  "type": 2,
+  "adv_name": "DE.HE.F Nordend-1",
+  "last_advert": "2024-10-21T12:00:53+00:00",
+  "lat": 50.1317,
+  "lon": 8.67212,
+  "inserted_date": "2026-06-15T05:43:32+00:00",
+  "updated_date": "2026-11-25T10:52:29+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1103d8a41809cc0756af467eaa7aebdb7630ba94d508ee6416acfea2398bcfc051a4330748955e16678ab1479143d9b6ffaa0308cd7be026037c96fffaffd4c47fb13eb0d6208457ba7a2afeb100035e3f591581ac6ac2281a2f35d405a93c7a87269561d7f56f6f0692eaf2fc027853840044452e48452e46204e6f7264656e642d31",
+  "source": "u",
+  "_age_days": 0.9,
+  "_manual": false
+ },
+ {
   "public_key": "0a5d4593ca53363f655e8c28691f99270cda3188ff346ae363ef59d91a26da47",
   "type": 3,
   "adv_name": "FBMC-Room",
@@ -177,6 +257,26 @@
   "link": "1145232b314f24a1df5f27970aa81417a64bc3810a67cf939f6ba81c1a172948afec786c22c90e752746331fe7c5076b34d418e4a4de6acbda7ec95d6fedcc55af823a62041d9f883f22361e86572182b9e1828efce3369e24009939d36512affea3bc62a0a746a6b4db04f0f5a47a049227c1f7021243840042757267204672616e6b656e737465696e",
   "source": "u",
   "_age_days": 0.1,
+  "_manual": false
+ },
+ {
+  "public_key": "0b205bf1c1519426b226ca68b6955905d5cfcd26bd480b1c3e4965b9e963616a",
+  "type": 3,
+  "adv_name": "DE-RP-MZ LBerg Room Obs",
+  "last_advert": "2026-11-12T17:09:13+00:00",
+  "lat": 49.9594,
+  "lon": 8.1882,
+  "inserted_date": "2026-10-31T00:04:05+00:00",
+  "updated_date": "2026-11-12T18:09:31+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10ca85000045e6f4232b671a3830aaae0b205bf1c1519426b226ca68b6955905d5cfcd26bd480b1c3e4965b9e963616ac900f66a32391bc7396ff0755cc37abc0e0984024aef851624bbe9a737eb5b0adb58cdc59892402fbfb6cd097673fb0f556cb6f374fc0c98e47deb4b9666f4c06b869b05930652fa0228f17c0044452d52502d4d5a204c4265726720526f6f6d204f6273",
+  "source": "u",
+  "_age_days": 13.6,
   "_manual": false
  },
  {
@@ -240,6 +340,26 @@
   "_manual": false
  },
  {
+  "public_key": "0df5ffbce08af0989846371caa1088e68562637fb02ea4f53ede1bb8965f6d69",
+  "type": 2,
+  "adv_name": "DB0GV Observer",
+  "last_advert": "2026-11-25T06:10:12+00:00",
+  "lat": 50.1292,
+  "lon": 8.85839,
+  "inserted_date": "2026-10-29T23:01:02+00:00",
+  "updated_date": "2026-11-25T07:10:34+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "107d8b0000464f6589d3b98134525ddc18ed0df5ffbce08af0989846371caa1088e68562637fb02ea4f53ede1bb8965f6d69d489066b5a2ae55a5f2082c7f8601d6246c0d3e1608673893f86cdde052efb3e31dc652edb4023c5b8c5b536a686f84b8e8270eabf2bcc42dc08f8bc4c7ce10bbb72f409921ee9fc02112b87004442304756204f62736572766572",
+  "source": "u",
+  "_age_days": 1.0,
+  "_manual": false
+ },
+ {
   "public_key": "0e1075b88b3a66324e2e40028ec5504ca264bf32f53c05709b6a9c66621828d2",
   "type": 2,
   "adv_name": "CCCDA",
@@ -258,6 +378,26 @@
   "source": "u",
   "_age_days": 15.0,
   "_manual": false
+ },
+ {
+  "public_key": "0f28b1c29dd12ea2155cee5ea0e1efa9776782c890b02eac646428347b36869f",
+  "type": 2,
+  "adv_name": "KatS-KG Hammelburg",
+  "last_advert": "2026-10-29T11:47:53+00:00",
+  "lat": 50.1104,
+  "lon": 9.89483,
+  "inserted_date": "2026-11-02T21:10:25+00:00",
+  "updated_date": "2026-11-02T21:10:25+00:00",
+  "params": {
+   "freq": 869.618,
+   "bw": 62.5,
+   "cr": 8,
+   "sf": 8
+  },
+  "link": "11000f28b1c29dd12ea2155cee5ea0e1efa9776782c890b02eac646428347b36869f7940e36a0da6500bd2999d9a016e3e7c89b25c40a0fcceadcac1a3a7ab0a601895a97365cd409bac98457fe6402898f99c78f68ced08f9834cf5fd11aa9105dcbd56860192f09ffc02b1fb96004b6174532d4b472048616d6d656c62757267",
+  "source": "a",
+  "_age_days": 23.4,
+  "_manual": true
  },
  {
   "public_key": "0f3c0886105b3fb58ecfa71fb1fa0119d35b0ba8cdddea04d99feebe1f7645bb",
@@ -400,6 +540,26 @@
   "_manual": false
  },
  {
+  "public_key": "147b95203fea1c9659b3199927a162566d91d5020177d30e400f94c899871038",
+  "type": 2,
+  "adv_name": "DE-BY-WUE-VHH",
+  "last_advert": "2026-11-25T14:27:37+00:00",
+  "lat": 49.8365,
+  "lon": 9.89365,
+  "inserted_date": "2026-11-25T16:31:08+00:00",
+  "updated_date": "2026-11-25T16:31:08+00:00",
+  "params": {
+   "freq": 869.618,
+   "bw": 62.5,
+   "cr": 8,
+   "sf": 8
+  },
+  "link": "1100147b95203fea1c9659b3199927a162566d91d5020177d30e400f94c89987103869fe066bcc1a0584f3bcc92acfdff73781c45b7f01c7ab86a480cbc4f13cbe421189809a5112437381d30fd5b14dff980917ff1d27ce8186991d058f3d6b72d39815990692c071f80212f7960044452d42592d5755452d564848",
+  "source": "a",
+  "_age_days": 0.6,
+  "_manual": true
+ },
+ {
   "public_key": "14d048561f310eddc77798ddddb3cdb612d20e31dc8e763207bbdedfcfc0712f",
   "type": 2,
   "adv_name": "DE-HE-OF Heusenstamm",
@@ -460,6 +620,26 @@
   "_manual": false
  },
  {
+  "public_key": "1539c8b06f9f48dd8b9e84e926c30de977ec536b9c3095e9270b952a18dcc76a",
+  "type": 2,
+  "adv_name": "Fuota  Test Repeater",
+  "last_advert": "2026-11-26T00:25:01+00:00",
+  "lat": 50.1081,
+  "lon": 9.74625,
+  "inserted_date": "2026-11-23T12:14:23+00:00",
+  "updated_date": "2026-11-26T01:25:20+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10a31c000085074b0d0ab4916f1035b7056ae9c39c1539c8b06f9f48dd8b9e84e926c30de977ec536b9c3095e9270b952a18dcc76a6d8a076b417ea96f6cabded2f41fec1b914d5590c329b33b0771cf13596e22bf95a7cc876395173380ec7b4ded02d19ad56838157eaa753d66e93267bea1b32f2ecde105929c96fc024ab7940046756f7461202054657374205265706561746572",
+  "source": "u",
+  "_age_days": 0.3,
+  "_manual": false
+ },
+ {
   "public_key": "15bb42088888918d2a44c05442f447c28225c27a331826d494c63c44f273c315",
   "type": 2,
   "adv_name": "F38-R-Seligenstadt-15bb",
@@ -497,6 +677,26 @@
   "link": "110468f6ebbc161b48e0d9dcf4ac7698b3e98753b06608d7ededcfbb1d379dcca967675641fd17bff06aec1546b8300b30d77cfe641d5e92b161349b0a5b0e66a0bf887bee23b5e921a01319491711b429776a1697f382cde762d0e806cdae594363bdc979243d83b60e92a645f6027ad5820064652e68652e73636877616e6865696d",
   "source": "u",
   "_age_days": 17.5,
+  "_manual": false
+ },
+ {
+  "public_key": "17fc0535274efe50e7075ff3e856af92c7f7db49a0a118423bb6c9eda77ef0eb",
+  "type": 2,
+  "adv_name": "da_babo_66",
+  "last_advert": "2024-05-15T15:15:18+00:00",
+  "lat": 49.5933,
+  "lon": 8.46311,
+  "inserted_date": "2026-11-17T21:31:23+00:00",
+  "updated_date": "2026-11-17T21:31:23+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11036fd0c417fc0535274efe50e7075ff3e856af92c7f7db49a0a118423bb6c9eda77ef0eba6ed4466d6237ae4814fc5e0592d897c8b2cbf0d28b6e6ae3a6d59307cef1d005198de8c94a322e90772bd20603119ab18b984d15c5591f07c71d920453da6e5ee71410d92d4bbf4020623810064615f6261626f5f3636",
+  "source": "u",
+  "_age_days": 8.4,
   "_manual": false
  },
  {
@@ -580,6 +780,46 @@
   "_manual": false
  },
  {
+  "public_key": "1ac4c33f7c0118323b69b80960efcd8586c8929d015e816049ca77a4ce5a3d8a",
+  "type": 2,
+  "adv_name": "DE-HE-FRA OST",
+  "last_advert": "2024-05-19T12:52:35+00:00",
+  "lat": 50.1228,
+  "lon": 8.71817,
+  "inserted_date": "2026-09-23T14:36:25+00:00",
+  "updated_date": "2026-11-19T15:58:18+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1088a20000836fff0981873b9511ad1ac4c33f7c0118323b69b80960efcd8586c8929d015e816049ca77a4ce5a3d8a33124a66ac6c210ed1e0bab97e0557f9cef1f27dac001d035c107c0b737cd2c0cdfe6e45c3280e854cf8235af58ae4442d57c307ee0ea06570a42708fff7e82d5cacbf0f922fd0fc025e07850044452d48452d465241204f5354",
+  "source": "u",
+  "_age_days": 6.7,
+  "_manual": false
+ },
+ {
+  "public_key": "1ba4fbd36fc4be63cbb495077a9da6c39bf7d8f42f628754d7ea385ec614355e",
+  "type": 3,
+  "adv_name": "DE-HE-MTK-DO9STB-ROOM",
+  "last_advert": "2024-05-26T22:52:32+00:00",
+  "lat": 50.1397,
+  "lon": 8.51401,
+  "inserted_date": "2026-10-12T09:43:30+00:00",
+  "updated_date": "2026-11-09T08:44:20+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "12001ba4fbd36fc4be63cbb495077a9da6c39bf7d8f42f628754d7ea385ec614355e50d95366d9e156732efa8808adf94e57fb0702163d2d77bc7306b3a81bba527263ffbcca43b5543e4bbf029bc3c02b6688e8e49d3add1bcd51fbd8047b15d0129e486203930c12fd02dae9810044452d48452d4d544b2d444f395354422d524f4f4d",
+  "source": "u",
+  "_age_days": 17.0,
+  "_manual": false
+ },
+ {
   "public_key": "1d3f194af788cfb74c5e34d868bcbb407a0fea4acc2f63a2a57138eb5608694c",
   "type": 3,
   "adv_name": "DE-HE-OF KKB OS\ud83d\udd0b+\u26a1",
@@ -620,6 +860,26 @@
   "_manual": false
  },
  {
+  "public_key": "1df5ff09cde6fdad2e14b8e33617e4d943e408643a6513c98df5f9aa357919e2",
+  "type": 2,
+  "adv_name": "DB0GV Repeater 869",
+  "last_advert": "2026-11-23T04:12:55+00:00",
+  "lat": 50.1293,
+  "lon": 8.85842,
+  "inserted_date": "2026-10-18T13:31:48+00:00",
+  "updated_date": "2026-11-24T10:23:27+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1029df0000467df5a5f26abc951124a1bf061df5ff09cde6fdad2e14b8e33617e4d943e408643a6513c98df5f9aa357919e257cb036ba395a7a7bf595459c7a0fe2a0999ded4a85e1410149653ab5edb4919c7be384bb75b5f75ec19750e47ffd5e6a444cb40566531a781391595cf856fef2e0ca2009294e9fc02342b8700444230475620526570656174657220383639",
+  "source": "u",
+  "_age_days": 1.9,
+  "_manual": false
+ },
+ {
   "public_key": "1e58bb89e2dd85489b5f6c0efb3f8b9acedf8f2a333a010e348478c7aa18baeb",
   "type": 2,
   "adv_name": "DE-HE-63322 Oberroden",
@@ -657,6 +917,26 @@
   "link": "12001f1f1fad4ba046e3a07cd0ff71cfd7d4d8d38882b5a17ecd80844a3e31f6f87ee198076bed41629a1813af50869d09fc8b254879c9a74177029b5270a4b8a4e9bf15cae79558c99ac1d631c993f4174ad8185751493c269321f0f9d9313b5a73c694080592752af9028f048400686578617c686f6d65",
   "source": "u",
   "_age_days": 1.4,
+  "_manual": false
+ },
+ {
+  "public_key": "20772b6b71ea7dda5d67475aeea2e2239539ffc85b00cf0b10aacdd5b5c2aca0",
+  "type": 2,
+  "adv_name": "DE-RP-Essenheim",
+  "last_advert": "2026-11-25T19:42:07+00:00",
+  "lat": 49.928,
+  "lon": 8.15,
+  "inserted_date": "2026-11-15T17:41:33+00:00",
+  "updated_date": "2026-11-25T20:42:21+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 5,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "120020772b6b71ea7dda5d67475aeea2e2239539ffc85b00cf0b10aacdd5b5c2aca01f48076b8143ce472be144f39d12fe05de200cd3f5e78451513d101b68896c3a17fa094d03c2e79c2c80906ff2a4969bb16eb6c652c9de3adb753d22ea23b42a2240570b9240d7f902f05b7c0044452d52502d457373656e6865696d",
+  "source": "u",
+  "_age_days": 0.5,
   "_manual": false
  },
  {
@@ -757,6 +1037,26 @@
   "link": "1144bf0619085ddc1e5824ee6ddf1b5691c7302397fd82ac30395f69defaf6af4873d60e905398c2b58716b2076bfcca226743bfe40c328f0548a98aec5545e10e9abd721d10d4c9a6a91c4260be466622a0f4064901390a61808517c61c4f7e6a6aac3a4eda778f633f7e004004923cc1f80283c0830052616c6631",
   "source": "u",
   "_age_days": 0.1,
+  "_manual": false
+ },
+ {
+  "public_key": "28271c43be8b097f6e57a2631708f482db3a6402b66f3a9e662c7179f8281052",
+  "type": 2,
+  "adv_name": "KatS-KG Schloss Saaleck",
+  "last_advert": "2026-11-26T00:04:18+00:00",
+  "lat": 50.1104,
+  "lon": 9.87218,
+  "inserted_date": "2026-11-23T13:04:28+00:00",
+  "updated_date": "2026-11-26T01:04:53+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10b80b000087f818e102787caae7f15b9f0a6f1035ea76092408ae28271c43be8b097f6e57a2631708f482db3a6402b66f3a9e662c7179f82810529285076bff63f70fede661aea847529ff1161684c0fdfa542a57d3f1f814cb072e8b665f3ed0d5171676037b6b1fa55d5a545deec9ca4d6c53dd40c2788a8759060cd30b92e79ffc022fa396004b6174532d4b47205363686c6f7373205361616c65636b",
+  "source": "u",
+  "_age_days": 0.3,
   "_manual": false
  },
  {
@@ -880,6 +1180,26 @@
   "_manual": false
  },
  {
+  "public_key": "2f05f0b4885cd9e33b164561c2ae4b1d81036281a7f03d4decd6ab2ab953db3b",
+  "type": 2,
+  "adv_name": "DE-HE-MTK-Fuxmau \u2600",
+  "last_advert": "2026-11-26T05:53:15+00:00",
+  "lat": 50.1392,
+  "lon": 8.33849,
+  "inserted_date": "2026-10-09T20:39:17+00:00",
+  "updated_date": "2026-11-26T06:55:17+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "12002f05f0b4885cd9e33b164561c2ae4b1d81036281a7f03d4decd6ab2ab953db3b5bd7076b0625bff0ea5faed30870d918d8fa7388c95805b18a0a36fbc7f476b663057aa725be7b7e44fd6cf4cda78b0693c2712ef03e6bced51f71a96ffc423fdde8ab09921d10fd023a3c7f0044452d48452d4d544b2d4675786d617520e29880",
+  "source": "u",
+  "_age_days": 0.0,
+  "_manual": false
+ },
+ {
   "public_key": "305df3a6bb671aff4837e9c7295b27c622be76fe86aed5a98773e689f9c1920d",
   "type": 2,
   "adv_name": "DE-HE-GG DG9DW",
@@ -980,6 +1300,26 @@
   "_manual": false
  },
  {
+  "public_key": "32eb560990cb6a193806886590e688b8e70e27db79bff787b1ded7143eca79e4",
+  "type": 2,
+  "adv_name": "DE-HE-WI-E7-1",
+  "last_advert": "2026-03-01T03:00:02+00:00",
+  "lat": 50.0751,
+  "lon": 8.19524,
+  "inserted_date": "2026-10-04T18:10:41+00:00",
+  "updated_date": "2026-11-24T10:24:59+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10f8750000821aae2481c66a32eb560990cb6a193806886590e688b8e70e27db79bff787b1ded7143eca79e4c2b9a36912471c9c263e560b46555163b692b1b43bf861e88799660cf534cff0fb32154ca2c79fa8998845c45c141170f1ff4f3f36899fcbad5428c40785f813f3bc730392b715fc02a30c7d0044452d48452d57492d45372d31",
+  "source": "u",
+  "_age_days": 1.9,
+  "_manual": false
+ },
+ {
   "public_key": "330c5bde960785c2e81eddadb1b8099741dfd79bc3f8e90e1e99c44c0f17a3ed",
   "type": 2,
   "adv_name": "MSe @ DE-DA-Arheilgen",
@@ -997,6 +1337,26 @@
   "link": "11421908efbc330c5bde960785c2e81eddadb1b8099741dfd79bc3f8e90e1e99c44c0f17a3ed3c74086bafa8d2171e3dfabe3df11dace5dc39e3aaf0e8d8d678ceb1233e43776b89a49ea4cc50824d0221d3eb0ff5c52e694fcfa6aa066f047fd7f5d7dc0fa4c78ff20f921297f902aa2b84004d536520402044452d44412d41726865696c67656e",
   "source": "u",
   "_age_days": 4.2,
+  "_manual": false
+ },
+ {
+  "public_key": "34524d1fed5a1baf76b1343fc428c308de3cb4297e3a1659ca6ebeb07bea7655",
+  "type": 2,
+  "adv_name": "DE-HE-OF Goethering",
+  "last_advert": "2026-11-27T09:55:50+00:00",
+  "lat": 50.1102,
+  "lon": 8.74322,
+  "inserted_date": "2026-09-09T13:32:59+00:00",
+  "updated_date": "2026-11-26T06:55:20+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11424a2f5a9a34524d1fed5a1baf76b1343fc428c308de3cb4297e3a1659ca6ebeb07bea7655b661096b8db90dc4be161ed99cb444da798d9b5a0b1671321171d20ccaa464d6aa51a1d285817008cb5b0537baccb61846081a672d39fbf66197248487157f309aa45d0992e59efc023569850044452d48452d4f4620476f6574686572696e67",
+  "source": "u",
+  "_age_days": 0.0,
   "_manual": false
  },
  {
@@ -1080,6 +1440,26 @@
   "_manual": false
  },
  {
+  "public_key": "3f5c05cc44a38dea000e2b1c617ca21e6f9e940ab3549d82c02b662c59d443a6",
+  "type": 2,
+  "adv_name": "Budenheim_West",
+  "last_advert": "1970-01-01T11:00:10+00:00",
+  "lat": 50.0209,
+  "lon": 8.16301,
+  "inserted_date": "2026-09-26T16:40:47+00:00",
+  "updated_date": "2026-11-21T22:19:59+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11059c23316c5d3f5c05cc44a38dea000e2b1c617ca21e6f9e940ab3549d82c02b662c59d443a6caa800008ad77642e0c99f1c55cbe3544e5c1d8e0fc9ed5e85af49565166882f6842af9f077f1f444b4b962ad44ae7f9df97392831303a49da8417c313efbd4725eabc0d922442fb02c28e7c00427564656e6865696d5f57657374",
+  "source": "u",
+  "_age_days": 4.4,
+  "_manual": false
+ },
+ {
   "public_key": "405b88763b220231b0ce4d6aa6aa5c802c43e84989c295ddb0624b32eda4f813",
   "type": 2,
   "adv_name": "de.he.messel1",
@@ -1097,6 +1477,46 @@
   "link": "10887f000083e6f8011908a7bf06e6405b88763b220231b0ce4d6aa6aa5c802c43e84989c295ddb0624b32eda4f8137310046b96d31d191ec6d8dc3bef7744210e2c57603cda5c5b16ab982b432554df6a9533f161b32865c14d19536831a19d12c0f69e4aaed331ce04c52dd7bfc074a431099238f8f902f070850064652e68652e6d657373656c31",
   "source": "u",
   "_age_days": 1.9,
+  "_manual": false
+ },
+ {
+  "public_key": "4293a0d36e386d5ddfa30120e1a3954caefb9657bd091fd7a3c2932cdc5079b1",
+  "type": 2,
+  "adv_name": "DB0ALU Kleinniedesheim",
+  "last_advert": "2024-05-31T00:52:35+00:00",
+  "lat": 49.5897,
+  "lon": 8.32074,
+  "inserted_date": "2026-06-14T16:20:55+00:00",
+  "updated_date": "2026-11-12T02:43:36+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "110322d51d4293a0d36e386d5ddfa30120e1a3954caefb9657bd091fd7a3c2932cdc5079b1733b5966467e370432d69da49eea967c1a938537ed5b3f04cf8b2ee62098237162f411443b637d4fe21c97f384f8e7c0847df19599c88a374245657e6d18738b489da10392b0adf402e4f67e00444230414c55204b6c65696e6e69656465736865696d",
+  "source": "u",
+  "_age_days": 14.2,
+  "_manual": false
+ },
+ {
+  "public_key": "43969eae9757c64f3bd2cb45c6defbc45007d3da890c8b85d522f7e88ab4ef92",
+  "type": 2,
+  "adv_name": "DE-HE-MTK-KE-4-00",
+  "last_advert": "2026-11-25T09:19:27+00:00",
+  "lat": 50.1466,
+  "lon": 8.42912,
+  "inserted_date": "2026-11-19T16:19:40+00:00",
+  "updated_date": "2026-11-25T10:19:42+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11024a1843969eae9757c64f3bd2cb45c6defbc45007d3da890c8b85d522f7e88ab4ef922fb6066b20bd59d03099faabef7773aee538a321cabf686f58fdc96d33f6078775501062001eab5fc6c7e55a59193fc7857b09da27b619ac7ca427fa1f673deb7653c40792002dfd02409e800044452d48452d4d544b2d4b452d342d3030",
+  "source": "u",
+  "_age_days": 0.9,
   "_manual": false
  },
  {
@@ -1140,6 +1560,26 @@
   "_manual": false
  },
  {
+  "public_key": "455468575c9a1eccbb92fda94fb845dc30c19718f1dcd6bbeb42d9d07829a9f8",
+  "type": 2,
+  "adv_name": "Photonic Shower",
+  "last_advert": "2026-11-26T04:32:50+00:00",
+  "lat": 49.9093,
+  "lon": 8.19797,
+  "inserted_date": "2026-09-24T16:46:18+00:00",
+  "updated_date": "2026-11-25T01:35:00+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10e1f5000043c7d81d6fdccd455468575c9a1eccbb92fda94fb845dc30c19718f1dcd6bbeb42d9d07829a9f882c4076b3965bc9043b5ed9ddda8e0adb2a88874fa377e62b3782a23a6a3061735360b9190f10734d5228ee20e9cd2b4a4b83c7052ed205341f91863ba63b563985a940c92258ef90254177d0050686f746f6e69632053686f776572",
+  "source": "u",
+  "_age_days": 1.3,
+  "_manual": false
+ },
+ {
   "public_key": "45991e7196bdbffc7d5f1924a0a3ae02ffca0b87edc1d18f56df25e2faaae441",
   "type": 3,
   "adv_name": "TH-RDG-RS-MC",
@@ -1177,6 +1617,26 @@
   "link": "100a12000082d0e321c4ac32468cbd6a695957800d7fae636271b94922038173f5ce4c8fe729a37008283edb2466076b63c481bb719d6246e5b0ae4ccb2cf4c0e8151cafb3dfb73baa68909e96d3bcbacb5b51d78bfa130701cbdf5b58ed21e79fc1ab5b713a91b7289f6b7f30d17e0b925c33f702d5778100436f6d6d6f6e7765616c7468203031",
   "source": "u",
   "_age_days": 0.4,
+  "_manual": false
+ },
+ {
+  "public_key": "4828cb5d77f5cf52d3a201e41eb23cd326500a20cfe39ff2b3c44904cc5237d5",
+  "type": 2,
+  "adv_name": "RAK4631 Repeater MC",
+  "last_advert": "2026-11-27T01:29:30+00:00",
+  "lat": 49.6862,
+  "lon": 8.16198,
+  "inserted_date": "2026-11-06T05:30:08+00:00",
+  "updated_date": "2026-11-24T21:53:29+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10c90a0000045832daa24828cb5d77f5cf52d3a201e41eb23cd326500a20cfe39ff2b3c44904cc5237d50aeb086bd17bb915ae376eb569ec7175d73649f7ed6317c503201e1e3855961f5c3d4af83494043dbc18c2b58291a287b65aa0b47136644bccbe5aec8ddb346dc0b2e20392b826f602c08a7c0052414b34363331205265706561746572204d43",
+  "source": "u",
+  "_age_days": 1.4,
   "_manual": false
  },
  {
@@ -1240,6 +1700,26 @@
   "_manual": false
  },
  {
+  "public_key": "499f42e39ac3e1229467644af45703a4875b046089db07b9de513bc41a9c38c2",
+  "type": 3,
+  "adv_name": "DL1DBY-RS",
+  "last_advert": "2026-11-03T11:32:50+00:00",
+  "lat": 50.1257,
+  "lon": 8.68994,
+  "inserted_date": "2026-11-02T12:06:40+00:00",
+  "updated_date": "2026-11-03T12:32:55+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1200499f42e39ac3e1229467644af45703a4875b046089db07b9de513bc41a9c38c272d4e96ab4ec6629169572dfe2c46e28f5ca03540a7910f734a3a7cc031b61589cfce1a4ef16ca5f987fcc290c1114fe7d4aed5019d0713b3d7acc46ab20122494d98705939fdbfc0213998400444c314442592d5253",
+  "source": "u",
+  "_age_days": 22.8,
+  "_manual": false
+ },
+ {
   "public_key": "4afe58a5068959706ee6db7a2f7eb3fccc7d0d835e5ce8b1141a42da71f8b0d2",
   "type": 2,
   "adv_name": "de.he.di40",
@@ -1277,6 +1757,46 @@
   "link": "109019000044904ab569b8bf32df4d4369368ff146ac8180c3283e0a96ec269b95ec67c47f19fbc5de1019966189c5d7056ba8ed8c322072a1bd2e7d37c4f044130816f10b6f550d544e5648b24dd28d7a14b940f738c7355bfd03eec2dfcb37e4b4f77933d6bbe016899824f4b9be7cc300920e1bfc028df2810044452d48452d4652412d53494e444c494e47454e31",
   "source": "u",
   "_age_days": 1.5,
+  "_manual": false
+ },
+ {
+  "public_key": "4d96c1a29309be50c64c999887289d28f62b318b7b65ef17db92f01db5efbc88",
+  "type": 2,
+  "adv_name": "ChirpMesh-Hemsbach-01",
+  "last_advert": "2026-11-25T07:09:46+00:00",
+  "lat": 49.5955,
+  "lon": 8.66083,
+  "inserted_date": "2026-10-29T11:23:33+00:00",
+  "updated_date": "2026-11-25T08:10:52+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "118173d83b4d96c1a29309be50c64c999887289d28f62b318b7b65ef17db92f01db5efbc88ca97066bbc1593b63e93305862b8086e2ed63a083aac3ebc8a28cf382b05988f16b6c07cd48155dedbd6579c00720af359d6c72f3b21c476a991f1f6019a7c4b8aae9c0c923dc4f4026127840043686972704d6573682d48656d73626163682d3031",
+  "source": "u",
+  "_age_days": 1.0,
+  "_manual": false
+ },
+ {
+  "public_key": "4f65b11153a8fd0eb389b382f4496640179eceae086afecfb643e192636aa261",
+  "type": 2,
+  "adv_name": "DE-HE-OF M\u00fchlheim 1",
+  "last_advert": "2026-11-25T12:52:57+00:00",
+  "lat": 50.123,
+  "lon": 8.83,
+  "inserted_date": "2026-10-06T18:43:04+00:00",
+  "updated_date": "2026-11-25T13:53:21+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10ffd20000836abcad898c564cb3dd4f65b11153a8fd0eb389b382f4496640179eceae086afecfb643e192636aa26139e8066b7d66e783ec57d5a19a011565483b9380a5747c1b58f0f3381223769d91666a26df808d054b57358104a91ac4e3ad7f91f5e6415eba0ec6b9f63a214ffa871e0d92f8d0fc0230bc860044452d48452d4f46204dc3bc686c6865696d2031",
+  "source": "u",
+  "_age_days": 0.7,
   "_manual": false
  },
  {
@@ -1340,6 +1860,26 @@
   "_manual": false
  },
  {
+  "public_key": "561d75e137a057a777c6cc10730e3fb18cf5463496b2c6e64d64e2bc03d8a78d",
+  "type": 2,
+  "adv_name": "TEST DF5FF FUOTA1",
+  "last_advert": "2026-11-22T18:27:31+00:00",
+  "lat": 50.1291,
+  "lon": 8.85832,
+  "inserted_date": "2026-11-21T14:38:08+00:00",
+  "updated_date": "2026-11-22T21:11:42+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10978e0000447df59511a60d7f7a561d75e137a057a777c6cc10730e3fb18cf5463496b2c6e64d64e2bc03d8a78d2342036bc855638cb212820c6ec054a6c39724d24392d28c3c3bfcf14c96c5f8a1d9bd44db35c9f16f3f69c057c2fc6b3b840ed4ee927e4fa64711239690d99be0530d0992cce8fc02d02a8700544553542044463546462046554f544131",
+  "source": "u",
+  "_age_days": 3.4,
+  "_manual": false
+ },
+ {
   "public_key": "57119c0b681483ab2875cbc5e471e77ba506d1bbfffe4269dfb904da7b4ce5c5",
   "type": 2,
   "adv_name": "F38-R-Alzenau-K\u00e4lberau",
@@ -1360,6 +1900,26 @@
   "_manual": false
  },
  {
+  "public_key": "58d861a629f9dca5bc9e47be8be905750fc55bd2a13e7cf1e60908214ba8dde4",
+  "type": 2,
+  "adv_name": "DE-HE-FRA Ostend Test",
+  "last_advert": "2026-11-22T12:29:10+00:00",
+  "lat": 50.12,
+  "lon": 8.7231,
+  "inserted_date": "2026-10-03T19:17:55+00:00",
+  "updated_date": "2026-11-22T14:10:11+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1099570000851ac4c3f665d44cb3dd7baf30cc800f58d861a629f9dca5bc9e47be8be905750fc55bd2a13e7cf1e60908214ba8dde426ee026bb2b99cb885cd3a4943428575a3eb45309fc3d73714709aafa435d38232789ea643c6d90b173dad2d60f28ac62b335396c36f8ebadbfc984784db242c15bed402923ec5fc02981a850044452d48452d465241204f7374656e642054657374",
+  "source": "u",
+  "_age_days": 3.7,
+  "_manual": false
+ },
+ {
   "public_key": "58e4fbb63504b7f95b6df68af3bf51e4845ccc6dfc8526ee7ad8685236c5d781",
   "type": 2,
   "adv_name": "Echo Terminal",
@@ -1376,7 +1936,7 @@
   },
   "link": "1006fd00004432df11b12394bccf58e4fbb63504b7f95b6df68af3bf51e4845ccc6dfc8526ee7ad8685236c5d781891e046b09ec0de065b3d7d09513b09dc6667f63cde2a0ff682ac212f7ba50d8a368a178a8ee62126b6ddd1c8195ac9cb5c79bc9090c904966352f97da45724cf9cfb309929a4ef702389781004563686f205465726d696e616c",
   "source": "u",
-  "_age_days": 2.8,
+  "_age_days": 2.9,
   "_manual": false
  },
  {
@@ -1500,6 +2060,26 @@
   "_manual": false
  },
  {
+  "public_key": "60389741b54b933fcdbb5b1dd04082d28b119e9c98fd066aee4ec9e9f6d738c1",
+  "type": 2,
+  "adv_name": "DE-HE-FFM Seckbach",
+  "last_advert": "2026-11-25T14:27:08+00:00",
+  "lat": 50.1392,
+  "lon": 8.71704,
+  "inserted_date": "2026-10-13T18:35:21+00:00",
+  "updated_date": "2026-11-25T15:26:35+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "120060389741b54b933fcdbb5b1dd04082d28b119e9c98fd066aee4ec9e9f6d738c14cfe066b18b5e123f6df9391a60dec940db0a274a2f4eac78d39c457cd7271e515ddb2abf278ef261bc2f531ee5dc876742cdf559ab4fe1cc5dc776b2acb2833db726e02924a10fd02f002850044452d48452d46464d205365636b62616368",
+  "source": "u",
+  "_age_days": 0.7,
+  "_manual": false
+ },
+ {
   "public_key": "608a3fa3eae637e8bac77f565c6ab2df027640fec4b60d7bae68bcdb596daf80",
   "type": 2,
   "adv_name": "Commonwealth 02",
@@ -1600,6 +2180,26 @@
   "_manual": false
  },
  {
+  "public_key": "6593b3deea69be3e7a12274dd672960f9b78fcb04313905679d6edf1f84e67f6",
+  "type": 2,
+  "adv_name": "FFM Riederwald Kafija",
+  "last_advert": "2024-05-17T07:52:32+00:00",
+  "lat": 50.1288,
+  "lon": 8.73429,
+  "inserted_date": "2026-09-28T00:50:07+00:00",
+  "updated_date": "2026-11-18T06:39:16+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1143b981bb2a37386593b3deea69be3e7a12274dd672960f9b78fcb04313905679d6edf1f84e67f6e0284766e22bf5cbb73286681921699eb55fc4642a4dc0186509a119f01bc78ee163147d1618a16160385b5c9c92ecd3e32b934339844d211ec04bae5fa4ba913a459c059282e7fc025246850046464d2052696564657277616c64204b6166696a61",
+  "source": "u",
+  "_age_days": 8.0,
+  "_manual": false
+ },
+ {
   "public_key": "66ab7c31817d7158de2054d74ea3d4d8f2368a6b80522e4782ab7c3cd13c1031",
   "type": 2,
   "adv_name": "RoutingRouter",
@@ -1677,6 +2277,26 @@
   "link": "10378b000083b8bf0799bb19551858682722a99dc337283d9cc51816c0da2bd16392435ece39710d96b6ee5f178ce88963076b3f250415015f02b362c624ca5df2cc2ce7f0c177bd2f100ec14d9cdb3b7de2c8cd02519d30064ee76e3196e357dba16e1c5aca1c080ee0416fafba18b96549079253c7f802719e7d004d6147732052414b3334303120f09f8c9e205265706561",
   "source": "u",
   "_age_days": 0.4,
+  "_manual": false
+ },
+ {
+  "public_key": "694bffb3297256dc1266dadae2f946d6cdf57fee5497062c428dfaef0a6c9ddf",
+  "type": 2,
+  "adv_name": "DE-HE-HU Steinheim 1",
+  "last_advert": "2024-05-16T20:52:32+00:00",
+  "lat": 50.1179,
+  "lon": 8.89631,
+  "inserted_date": "2026-11-19T07:58:45+00:00",
+  "updated_date": "2026-11-26T03:03:09+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1105927d74bbcf694bffb3297256dc1266dadae2f946d6cdf57fee5497062c428dfaef0a6c9ddf308e46664c4247b8b45b292bd69265e2bb13ff9cf29e21c707296607a1ce61697b0739d59b7386c8ab26740eec0c5a8c71946fe6c2b9b3ff5543c94fef3bfe07f43abf0092f8bcfc0236bf870044452d48452d485520537465696e6865696d2031",
+  "source": "u",
+  "_age_days": 0.2,
   "_manual": false
  },
  {
@@ -1780,6 +2400,26 @@
   "_manual": false
  },
  {
+  "public_key": "6fff0991700125b53df79ae28ddf919dc7f6d9ad2d3529bdfb9bb8298eef2dc8",
+  "type": 2,
+  "adv_name": "DE-HE-F VFDB Z05 #0",
+  "last_advert": "2026-11-25T12:31:40+00:00",
+  "lat": 50.1096,
+  "lon": 8.67956,
+  "inserted_date": "2026-09-25T16:28:18+00:00",
+  "updated_date": "2026-11-25T13:30:47+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "12006fff0991700125b53df79ae28ddf919dc7f6d9ad2d3529bdfb9bb8298eef2dc83ce3066b1776a1b29e82e4e2e3fd0aa79e51f0e4d7bf9ca2af1b931a9c09a60e0d8fb9350639cd9dc3ba8a50977167b2f6e6364bc361d95d019e8842657eccfde0ee570992aa9cfc028870840044452d48452d462056464442205a3035202330",
+  "source": "u",
+  "_age_days": 0.8,
+  "_manual": false
+ },
+ {
   "public_key": "7051f9949f1287e2084cb25bfb229d47156e474cf21d71d5decc153888d6320f",
   "type": 2,
   "adv_name": "TEMP_DK1NH",
@@ -1817,6 +2457,26 @@
   "link": "1104c55a9389719eb616c56c552a0ce4dd75b429d9e6649e981a3bfa17cca8bf2e663943b021def8e566ef06b219eafe552119a809580813c086211e1e51f2c4343465427168f06c0e12a5648ea6c2675cb02f2ca7f34567a735e08cf68fd17dd8bc030a563044028d0e92faa5f80288d0830044452d4845204461726d73746164742d576573742032",
   "source": "u",
   "_age_days": 20.9,
+  "_manual": false
+ },
+ {
+  "public_key": "74f53a4f7a4240e1c5b7a17c609e78984dd199a02cbf5d3bfc839443db6e7a74",
+  "type": 2,
+  "adv_name": "Offenbach_Test",
+  "last_advert": "2024-06-19T14:52:33+00:00",
+  "lat": 50.1059,
+  "lon": 8.76109,
+  "inserted_date": "2026-08-14T05:40:31+00:00",
+  "updated_date": "2026-11-24T11:36:39+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11019574f53a4f7a4240e1c5b7a17c609e78984dd199a02cbf5d3bfc839443db6e7a74d10c736684ff17375cdb4b0693627d7a6b5df71b912e059cce13390b7b402ed535d105ccfb00031d583af661356e6bbbd2524f28d36f2f1e5593bb08745f4444a040b40f92038efc0206af85004f6666656e626163685f54657374",
+  "source": "u",
+  "_age_days": 1.8,
   "_manual": false
  },
  {
@@ -1880,6 +2540,26 @@
   "_manual": false
  },
  {
+  "public_key": "7b550b106715f08c5af228951255add0181293faf06d3f08929b4f16328fac3e",
+  "type": 2,
+  "adv_name": "DE-HE-F VFDB Z05 #14",
+  "last_advert": "2026-11-22T10:48:19+00:00",
+  "lat": 50.1005,
+  "lon": 8.55062,
+  "inserted_date": "2026-11-15T12:48:34+00:00",
+  "updated_date": "2026-11-22T11:48:19+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10570b0000845ddc1d9fa563298d5f6bfc3b7b550b106715f08c5af228951255add0181293faf06d3f08929b4f16328fac3e83d6026b7c2303edfca993f88d76ccb59d6d3ec6115cac1bd7c2f5c70303758c43c4bd9066f3bc0706ff8200df0e2151093fa9abe63060a8b7c1aecb9d75fe893cc28902921479fc02dc78820044452d48452d462056464442205a303520233134",
+  "source": "u",
+  "_age_days": 3.8,
+  "_manual": false
+ },
+ {
   "public_key": "7b79de852c1415d088d62d4fe65d4b07eed501fbb0ae401ea6a6f856fd0cb27c",
   "type": 2,
   "adv_name": "DE-RP-Bodenheim-Solar01",
@@ -1917,6 +2597,46 @@
   "link": "10875f000081df007a7c61670dc4ecc8df08e7bb77a534b4430742da528d068d80d0ce7fad34a0ead39ec3f96a6f4c27682b67ece3c2f0df194afd741e68fff1c3a09094c9337fff8d755736e7286491325cd351a5b65f2977d50889096e880e0b097635526406d5845b48360492632ef702eda183004a7567656e6865696d2d5265706561746572",
   "source": "u",
   "_age_days": 10.7,
+  "_manual": false
+ },
+ {
+  "public_key": "7df5ffc6cf81a0f4876bd805062649cca760f4aca903ce07e72e4cd96d87cac4",
+  "type": 2,
+  "adv_name": "DL0FFM\u2600\ufe0fFUOTA1",
+  "last_advert": "2026-11-25T15:48:55+00:00",
+  "lat": 50.1292,
+  "lon": 8.85826,
+  "inserted_date": "2026-10-11T17:40:04+00:00",
+  "updated_date": "2026-11-25T16:49:16+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "109ee100004289d36abc7df5ffc6cf81a0f4876bd805062649cca760f4aca903ce07e72e4cd96d87cac47711076b68a8119406ad00416eb852786536f018abd9de71503f37fd504fc64df9afa86ba9aaeb4b86a75dc0eed0516f8df932a816d3239978ab09f511fecf177e51450e9208e9fc02942a8700444c3046464de29880efb88f46554f544131",
+  "source": "u",
+  "_age_days": 0.6,
+  "_manual": false
+ },
+ {
+  "public_key": "7ebf1213043ad0e5b6e5f6ec8ad0e6b4c41e4481c46e1995ea2fe954ea0ed7ef",
+  "type": 2,
+  "adv_name": "DE-HE-F Ost Test",
+  "last_advert": "2026-11-22T11:49:26+00:00",
+  "lat": 50.1226,
+  "lon": 8.71066,
+  "inserted_date": "2026-11-22T12:49:36+00:00",
+  "updated_date": "2026-11-22T12:49:36+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10ad950000826fff099511ad7ebf1213043ad0e5b6e5f6ec8ad0e6b4c41e4481c46e1995ea2fe954ea0ed7efd6e4026bb29758429b672ee329d9e6a9ac1dd4a2993b54d510ba0201f46f0737e1bc066bac5ecbc5c573a7e1237bb916fcf89af173a998d7e5a2dd0730a82c66fd92860b9240cffc0204ea840044452d48452d46204f73742054657374",
+  "source": "u",
+  "_age_days": 3.8,
   "_manual": false
  },
  {
@@ -2060,6 +2780,46 @@
   "_manual": false
  },
  {
+  "public_key": "85764f194bb88c40a51de326aec34e4655eac7a54b902a238f714add959f3b90",
+  "type": 2,
+  "adv_name": "EMCOMLZBRPT01",
+  "last_advert": "2026-11-24T17:52:51+00:00",
+  "lat": 50.1355,
+  "lon": 8.61062,
+  "inserted_date": "2026-09-17T16:05:47+00:00",
+  "updated_date": "2026-11-24T21:03:06+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1106a189a48927b085764f194bb88c40a51de326aec34e4655eac7a54b902a238f714add959f3b9003dd056b75d5d5543a86b4a58294549c6bd292892ff870faed603f7ad67acd02864693e78b309e7db06775d827c315d74f922e8c24d0cb939e8553e11f3cb8c7d8b1130492c201fd023c638300454d434f4d4c5a425250543031",
+  "source": "u",
+  "_age_days": 1.4,
+  "_manual": false
+ },
+ {
+  "public_key": "86689605f360baab5d6bb3b746d5fca905c3593bf6397995f718f8093ba78a92",
+  "type": 2,
+  "adv_name": "DE-HE-RU0",
+  "last_advert": "2026-11-05T13:19:08+00:00",
+  "lat": 50.1289,
+  "lon": 8.79568,
+  "inserted_date": "2026-10-02T11:13:50+00:00",
+  "updated_date": "2026-11-03T06:26:30+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10611d0000026fb286689605f360baab5d6bb3b746d5fca905c3593bf6397995f718f8093ba78a925c90ec6ac4a3a6d1ef2775441f5a9e5ec327a0e2c16fb8edccdfbc1b4a19f0867da95d4d1aab868d5a778fd8e740c1db53ccd348f458f8eea17b98097ce2725dbad36b02920ee8fc022136860044452d48452d525530",
+  "source": "u",
+  "_age_days": 23.0,
+  "_manual": false
+ },
+ {
   "public_key": "8813a70c816c58a55dc6f933c1086e7c61d98f91eb49df56c293a44d8e350d5e",
   "type": 2,
   "adv_name": "F38-R-Rodgau-Dudenhofen",
@@ -2120,6 +2880,26 @@
   "_manual": false
  },
  {
+  "public_key": "894e111442cf148ea85ff2357e7da35b3d02c5d7d94d26fcc10ec4c56392d563",
+  "type": 2,
+  "adv_name": "DE-HE-HU-Nordost",
+  "last_advert": "2026-11-25T11:41:18+00:00",
+  "lat": 50.1071,
+  "lon": 8.95588,
+  "inserted_date": "2026-11-19T01:41:31+00:00",
+  "updated_date": "2026-11-25T12:41:42+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11845e0f6bdc7fa69511ad6fff09894e111442cf148ea85ff2357e7da35b3d02c5d7d94d26fcc10ec4c56392d5636ed7066b2aab7f759003e41287e239c7cdb35d796efb1c9fd9f8302f8f98dd39025bfa9c30b8360857b71c4074c679947f39a3aff6fa62b1f5409448902338231e78690a92ea92fc02e6a7880044452d48452d48552d4e6f72646f7374",
+  "source": "u",
+  "_age_days": 0.8,
+  "_manual": false
+ },
+ {
   "public_key": "89817bfac6a756ed5f7b0298c05e689853c8387bbfc6f3c98c4ddab6e0026b30",
   "type": 2,
   "adv_name": "Repeater Neuhausen",
@@ -2137,6 +2917,46 @@
   "link": "11448877b01299bb863489817bfac6a756ed5f7b0298c05e689853c8387bbfc6f3c98c4ddab6e0026b3053bd066bf592c62c0bad5a61d047186b048857d7c10644cc3206c0ddbc54999f17488b1d4a336dcbba741be4baad73e5d4d4eaac699bb1e00fe9c14d7bf8f9a338be100592f784f502096e7f005265706561746572204e657568617573656e",
   "source": "u",
   "_age_days": 0.6,
+  "_manual": false
+ },
+ {
+  "public_key": "898c561442a77d55ee56eef4c406319c4eae13c680462da22fb698f16bb11e5a",
+  "type": 2,
+  "adv_name": "Bockenheim West",
+  "last_advert": "2026-11-24T12:16:03+00:00",
+  "lat": 50.1183,
+  "lon": 8.648,
+  "inserted_date": "2026-10-19T13:03:47+00:00",
+  "updated_date": "2026-11-24T15:02:53+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1104a48927b0898c561442a77d55ee56eef4c406319c4eae13c680462da22fb698f16bb11e5a138e056ba27dbe8327b19d887dc7485d7a8aee448bb0ccc5cafac34cf564fef8c06cea081339f8b55f66ebcfa587aa87755f7772dfc7dc15ea5e1035cbb9d43eed6c8a0e92a5befc0240f58300426f636b656e6865696d2057657374",
+  "source": "u",
+  "_age_days": 1.7,
+  "_manual": false
+ },
+ {
+  "public_key": "89d343e753db908d7cdc3481634d3bbbe5e42db65934297bf810fae516c9a9a6",
+  "type": 2,
+  "adv_name": "de.he.mkk.maintal-01",
+  "last_advert": "2024-09-27T05:18:33+00:00",
+  "lat": 50.1363,
+  "lon": 8.83946,
+  "inserted_date": "2026-07-10T15:39:56+00:00",
+  "updated_date": "2026-11-20T04:13:50+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1057b90000426abc951189d343e753db908d7cdc3481634d3bbbe5e42db65934297bf810fae516c9a9a6495cf666c3932ff81a2af095e7be48a61152132c4e549b78aa574183e629ee4b077096655fd19803bd946072d97eae616387cbd606586f11a53a8b9088feb1d2b52da50192c104fd0226e1860064652e68652e6d6b6b2e6d61696e74616c2d3031",
+  "source": "u",
+  "_age_days": 6.1,
   "_manual": false
  },
  {
@@ -2240,6 +3060,26 @@
   "_manual": false
  },
  {
+  "public_key": "92d357578eea0afe6413d3d408f905ab76780eba6e5cb34253e266d67f39ad9d",
+  "type": 2,
+  "adv_name": "DE-HE-HU Steinheim 2",
+  "last_advert": "2026-11-26T05:06:50+00:00",
+  "lat": 50.1191,
+  "lon": 8.89223,
+  "inserted_date": "2026-11-21T16:12:49+00:00",
+  "updated_date": "2026-11-26T06:07:20+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1104302e951e92d357578eea0afe6413d3d408f905ab76780eba6e5cb34253e266d67f39ad9d7acc076b1eb9fc255e5d601b416186ba51ce1aec1614f934424f740e459285f0ba45a4a067affdb731bb2c8a8d8b725a8947322ccd67fe69d4dd98450e1368a16174f80c92dbc1fc0245af870044452d48452d485520537465696e6865696d2032",
+  "source": "u",
+  "_age_days": 0.1,
+  "_manual": false
+ },
+ {
   "public_key": "9329fa3ecf43b5d93bc6af2a0e4cb12f8b726adab129c7a7bbc155e7d5509c94",
   "type": 2,
   "adv_name": "Fleaz @ Home",
@@ -2257,6 +3097,26 @@
   "link": "1143853fa999bf069329fa3ecf43b5d93bc6af2a0e4cb12f8b726adab129c7a7bbc155e7d5509c944b15036ba5dbb18e65332a41daea10a96c32d4695a895fc5bc5b7da1a273bf6ce5849f40c80899bca2ba934bf6df17f97242e187b9ce0ca00c68dae3278c70ab76ad3c0b92a1bff802b2f88300466c65617a204020486f6d65",
   "source": "u",
   "_age_days": 3.6,
+  "_manual": false
+ },
+ {
+  "public_key": "93d6cf7af1b9097a006ddf62583b94cc4a35b2a828213dafb1b63b6ea2c60afa",
+  "type": 2,
+  "adv_name": "VogelnestWue\ud83d\udd0b\u26c5",
+  "last_advert": "2026-12-01T22:33:00+00:00",
+  "lat": 49.7768,
+  "lon": 9.88795,
+  "inserted_date": "2026-02-19T08:20:06+00:00",
+  "updated_date": "2026-11-26T03:40:24+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1103a144aa93d6cf7af1b9097a006ddf62583b94cc4a35b2a828213dafb1b63b6ea2c60afa2c590f6b364d7088b25bf5ac336ef7c0e954a02b7e34549e83668ff9a9c8c70ab5b4398a4e8cdc4afb2e994424c6a5ca021d8f011dba49cdbc15e3898d7c1ef801acb90c92c288f702d0e09600566f67656c6e657374577565f09f948be29b85",
+  "source": "u",
+  "_age_days": 0.2,
   "_manual": false
  },
  {
@@ -2380,6 +3240,26 @@
   "_manual": false
  },
  {
+  "public_key": "9ad17b856abbec4268ecf04903452a07c094bf79577bbbc117b6264d494a2561",
+  "type": 2,
+  "adv_name": "Hoechberg",
+  "last_advert": "2026-11-26T02:11:51+00:00",
+  "lat": 49.7714,
+  "lon": 9.8625,
+  "inserted_date": "2025-12-28T19:58:11+00:00",
+  "updated_date": "2026-11-26T03:12:13+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "106a51000046a1ffb39df6b2792804295b9f9ad17b856abbec4268ecf04903452a07c094bf79577bbbc117b6264d494a256177a3076bab575bcbf84468551a70029d8ceb369a7c67eefba3c04734ad13a238be1378d9adef029304532ecc6be74571c819a739f2a6ce4cd8bb66219054acf3a431ef09928873f702647d9600486f65636862657267",
+  "source": "u",
+  "_age_days": 0.2,
+  "_manual": false
+ },
+ {
   "public_key": "9ba6c23f2a77a17aa42916387284705dc6024f81ec55e8674099f209725fc155",
   "type": 2,
   "adv_name": "DE-HE-WI-GB1",
@@ -2420,6 +3300,26 @@
   "_manual": false
  },
  {
+  "public_key": "a1bc5c3e58331060e68b6fa2b757126d2bf23cf20fccffba966c01aa862d21d3",
+  "type": 2,
+  "adv_name": "Axitera.de Bewirb dich!",
+  "last_advert": "2026-11-27T00:10:25+00:00",
+  "lat": 50.1165,
+  "lon": 8.64222,
+  "inserted_date": "2026-02-09T09:35:22+00:00",
+  "updated_date": "2026-11-25T21:09:12+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "110127a1bc5c3e58331060e68b6fa2b757126d2bf23cf20fccffba966c01aa862d21d381d8086bd74b72adf60eeb3a5976ce9a2e03e8cccb331537c6042e63d6f67c00f623207c46850ac3144b9968f51276a087202e777b4a9e5703264502c18ac8f87181210a9266b7fc02abde8300417869746572612e646520426577697262206469636821",
+  "source": "u",
+  "_age_days": 0.4,
+  "_manual": false
+ },
+ {
   "public_key": "a26f2b0ce756cc212d1b1be0d020a536c878f7f88265b70275dcd5063559263d",
   "type": 2,
   "adv_name": "RPT01 HE/WI NordicMesh.",
@@ -2436,7 +3336,7 @@
   },
   "link": "110c1a99846fd0d8199a0b464b9ea26f2b0ce756cc212d1b1be0d020a536c878f7f88265b70275dcd5063559263d5a5cc76a5c77469e03df84cac613a9c29534aec3b5b52af2ecb16b7d38fedd14ce683d25eb529ca698964a2cc3e23cd4cc068c87f95b34d7770596b47586595661eccf0392a66efc0256fe7d0052505430312048452f5749204e6f726469634d6573682e",
   "source": "u",
-  "_age_days": 1.9,
+  "_age_days": 2.0,
   "_manual": false
  },
  {
@@ -2460,6 +3360,26 @@
   "_manual": false
  },
  {
+  "public_key": "a431f9a8614f36cc15b1ce6ef0b3b663541c7709e58f5188850b43c34a7fd92f",
+  "type": 2,
+  "adv_name": "\ud83d\udc1dMike DK1ML WestendF",
+  "last_advert": "2026-11-25T20:29:54+00:00",
+  "lat": 50.1182,
+  "lon": 8.6626,
+  "inserted_date": "2026-10-19T15:09:43+00:00",
+  "updated_date": "2026-11-25T21:29:38+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "108782000042b8bf81c6a431f9a8614f36cc15b1ce6ef0b3b663541c7709e58f5188850b43c34a7fd92f5253076b8a46204e53f974aeb3707ae73cf7e74958fd1bf320f8be4400d38c9ffa1f2fc8f45c49f195a350bd678f44296049fdaedaec728df63faca15a2049cf865ef60b9210befc02482e8400f09f909d4d696b6520444b314d4c2057657374656e6446",
+  "source": "u",
+  "_age_days": 0.4,
+  "_manual": false
+ },
+ {
   "public_key": "a43cddab29b8c3d62882a5a789f74bfed6b0d34eb7290179720e8da914743134",
   "type": 3,
   "adv_name": "KuFl Familienraum",
@@ -2477,6 +3397,26 @@
   "link": "1200a43cddab29b8c3d62882a5a789f74bfed6b0d34eb7290179720e8da9147431349b37036b2ba38ac1a3db2c0ae6c8b98813cc1074ff0548a18c889d9c0a2910f7682251415ed04ad401636653bca27b98dd2d37efd63b0ecb833d23379ba8754567691708934c14fc025ce388004b75466c2046616d696c69656e7261756d",
   "source": "u",
   "_age_days": 3.5,
+  "_manual": false
+ },
+ {
+  "public_key": "a440cbb3651508f4f18c7de16cd8dbd068bcedbdfaaeb180e34c5b48c1924731",
+  "type": 2,
+  "adv_name": "L-Specht1 Repeater",
+  "last_advert": "2026-11-26T07:58:13+00:00",
+  "lat": 50.1064,
+  "lon": 8.63521,
+  "inserted_date": "2026-09-27T08:24:05+00:00",
+  "updated_date": "2026-11-25T04:59:56+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1102a127a440cbb3651508f4f18c7de16cd8dbd068bcedbdfaaeb180e34c5b48c1924731a5f4076b9ea5cb067b227d3a19737d148c1e1e2eb937c5379835b3fd8f9293466358b9d6a35eece80a32cc55668a59f7d886d32595d9ed8f27a6d81af26927bf96039705922f90fc0247c383004c2d53706563687431205265706561746572",
+  "source": "u",
+  "_age_days": 1.1,
   "_manual": false
  },
  {
@@ -2517,6 +3457,26 @@
   "link": "1108d3d131d5d58589fca5b9458e9471d152c3d83ccc38d1c255d3c72fde685980286bf50fd7114ee1b66f8a8266937054602936e0c8179e6bf82e4401032d1e27f9a8cb1717456db540dd3353fd274fe1201c85ea6572c839279438677e3cf40eef273344b76816f4d0c393b00c933eaffa02f6b37d00e29d84efb88f44452d5248452d4d5a2d52532d61356239",
   "source": "u",
   "_age_days": 0.8,
+  "_manual": false
+ },
+ {
+  "public_key": "a5f222b6bbfb1a8033ca49b629b217a5d45866a3029cad0e9c367b2c58ee3e00",
+  "type": 2,
+  "adv_name": "DE-HE-MKK MTL MUHO",
+  "last_advert": "2026-11-11T06:07:40+00:00",
+  "lat": 50.1304,
+  "lon": 8.84518,
+  "inserted_date": "2026-11-11T07:08:24+00:00",
+  "updated_date": "2026-11-11T08:12:10+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10a5ce0000864f65b189d3436abcad34524d24a16ebf06e6a5f222b6bbfb1a8033ca49b629b217a5d45866a3029cad0e9c367b2c58ee3e003c14f46a54f9e6077535aa4e44eae2ec73f2d9da7ccfeb314952fcb4a0c710d97af73c6c6a224222e3659397d15d270b0503de3adc9322c4ffe9882c03ccf1f43101010b92d6edfc027cf7860044452d48452d4d4b4b204d544c204d55484f",
+  "source": "u",
+  "_age_days": 15.0,
   "_manual": false
  },
  {
@@ -2660,6 +3620,26 @@
   "_manual": false
  },
  {
+  "public_key": "adf5ffe28e4631f15fff4731679fe7318df106696073cb963c87a3a3a79fbc0d",
+  "type": 2,
+  "adv_name": "\"DF5FF\u2600\ufe0fFUOTA1\"",
+  "last_advert": "2026-11-25T17:35:29+00:00",
+  "lat": 50.1295,
+  "lon": 8.8584,
+  "inserted_date": "2026-10-16T04:19:20+00:00",
+  "updated_date": "2026-11-25T18:35:46+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1054d30000457df589d36fff81879511adf5ffe28e4631f15fff4731679fe7318df106696073cb963c87a3a3a79fbc0d712a076baf1b7917b5cfbc66bdae95d718222f671c049b66acc4a3312e79d04febb5840e37419594a0845fd72cd0c34177e0dbade1b2fcb7fa3b5534841f62d8cc30ab069274eafc02202b8700224446354646e29880efb88f46554f54413122",
+  "source": "u",
+  "_age_days": 0.5,
+  "_manual": false
+ },
+ {
   "public_key": "affe67844481c435097830caaccf36985737dd891f89881477fdb21ce40550ec",
   "type": 2,
   "adv_name": "Arheilgen Sued",
@@ -2677,6 +3657,26 @@
   "link": "11425342fc9caffe67844481c435097830caaccf36985737dd891f89881477fdb21ce40550ecedd3076be4c158f757f6c08497f6b50bc266e6e7c03945691a36a723fdc1367870b3772180c6816cd321e6848f023e8e97f9e3fde8e99e63648a5e15b5207f2229bb0701927674f902ea22840041726865696c67656e2053756564",
   "source": "u",
   "_age_days": 1.9,
+  "_manual": false
+ },
+ {
+  "public_key": "b03a2647fafcd694dcc7b1a3adbfc79de9f2c8c36d393894b327ea6ae41b7f54",
+  "type": 2,
+  "adv_name": "KatS-KG Hansi",
+  "last_advert": "2026-11-25T23:29:56+00:00",
+  "lat": 50.1492,
+  "lon": 9.76443,
+  "inserted_date": "2026-07-05T16:02:01+00:00",
+  "updated_date": "2026-11-26T00:30:14+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10ef46000044cfd10ab46f10b205b03a2647fafcd694dcc7b1a3adbfc79de9f2c8c36d393894b327ea6ae41b7f54847d076b5f5567146ba1e987599af4488c8b6016a6f292c9439157f773431ff3250af0d66fd21f8cf5dcee927b1d670664d8973ed00a3f5c2f7e922f84be8c96ed168809927037fd024cfe94004b6174532d4b472048616e7369",
+  "source": "u",
+  "_age_days": 0.3,
   "_manual": false
  },
  {
@@ -2740,6 +3740,26 @@
   "_manual": false
  },
  {
+  "public_key": "b2eba5038fc3ea19963d47c9f2e0bfea3b2c218bac1a22c2a03e825ba5409ac2",
+  "type": 2,
+  "adv_name": "DL1DBY-RP",
+  "last_advert": "2026-11-23T05:22:24+00:00",
+  "lat": 50.1257,
+  "lon": 8.68997,
+  "inserted_date": "2026-10-22T12:36:29+00:00",
+  "updated_date": "2026-11-24T10:23:28+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10d79a000084b98194df007a1908a7bf06e6b2eba5038fc3ea19963d47c9f2e0bfea3b2c218bac1a22c2a03e825ba5409ac2a0db036b95600522821f8d2e10b5befe8fe4d0327e0f079e1384f79188f65622cf90cf331315869618607a5caf3c219ab965269d50816d683537c47e47e60da5859c260e9270dbfc0232998400444c314442592d5250",
+  "source": "u",
+  "_age_days": 1.9,
+  "_manual": false
+ },
+ {
   "public_key": "b43d1c619c658327d286ee415205014ba2362dd4f3c4a894a4044d23fdaf33b0",
   "type": 2,
   "adv_name": "ARCW Repeater Worms",
@@ -2757,6 +3777,26 @@
   "link": "1052c100008599bb19bccf77c83e8d5eafa0a2e291b43d1c619c658327d286ee415205014ba2362dd4f3c4a894a4044d23fdaf33b02846076bad4d764c4ea53252672cfba0d6c5202621dae1fe7303b380347bd95226de4ef6adaa4aa9436a8b7f6fbf905cabe12c26ec0680c16d2e8ab0dd084a7df6ccd80092da81f502b1277f004152435720526570656174657220576f726d73",
   "source": "u",
   "_age_days": 0.4,
+  "_manual": false
+ },
+ {
+  "public_key": "b56986cff76d1e81874271b88d3c031c355cde8a673d87430c3ed7e6f80091f7",
+  "type": 2,
+  "adv_name": "DE-HE-MTK Neuenhain",
+  "last_advert": "2024-05-15T20:52:32+00:00",
+  "lat": 50.15,
+  "lon": 8.5,
+  "inserted_date": "2026-05-24T09:40:03+00:00",
+  "updated_date": "2026-11-26T05:08:46+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11059dc295a67fb56986cff76d1e81874271b88d3c031c355cde8a673d87430c3ed7e6f80091f7b03c456668443b5f4be92ccf11db776e3f772ca27281710c372f24e4f09bd8dd86880fbf35abf5e36dff4475819afc630620e0eda3a54b0fa573a6942f72c70890f65a0792703afd0220b3810044452d48452d4d544b204e6575656e6861696e",
+  "source": "u",
+  "_age_days": 0.1,
   "_manual": false
  },
  {
@@ -2797,6 +3837,66 @@
   "link": "10dd5f000085b0124299bb192a14f9f2425437326cb8bf07134b0d34205ee76efdb9093706167ebf498a23a9080139c69c2470caf24cbd076b04c0d9aca93189b5024e22a96a87739be2da31a35461957ecff473ead662b7d9c0620a39736bdbabfabe77905dee9a769254581c673db373c0b6e675576f8608926cb1f80232377f00444c3054525a20547275747a7475726d20536f6c6172",
   "source": "u",
   "_age_days": 0.1,
+  "_manual": false
+ },
+ {
+  "public_key": "b8c7e56c5e21ead1260e3c4b8d6908a014d08ceb2fc4862ad01b2885d1eea449",
+  "type": 2,
+  "adv_name": "Al_Raunepeater66",
+  "last_advert": "2026-03-16T01:55:59+00:00",
+  "lat": 49.592,
+  "lon": 8.46739,
+  "inserted_date": "2026-10-22T09:22:43+00:00",
+  "updated_date": "2026-11-10T12:08:01+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "100e4c00008395ef4832dfccda3c9fb8c7e56c5e21ead1260e3c4b8d6908a014d08ceb2fc4862ad01b2885d1eea4493f71b769ee6a92a60d52cc8e9ffca68fe035c52278f46bd528997cdc8fc5bc89784ee97b56534a4dd3166b83291692b26a615fbb8dc6a3b89d6278af73e2b42f7d38830592f2b6f402be338100416c5f5261756e657065617465723636",
+  "source": "u",
+  "_age_days": 15.8,
+  "_manual": false
+ },
+ {
+  "public_key": "b8e4098a1e1152388c9053c980ebbbc5670fd43f65727d7bc02aac8aaed1303b",
+  "type": 3,
+  "adv_name": "DE-HE Frankfurt-Pinnwan",
+  "last_advert": "2026-03-04T21:00:06+00:00",
+  "lat": 50.1185,
+  "lon": 8.64835,
+  "inserted_date": "2026-11-07T13:18:05+00:00",
+  "updated_date": "2026-11-20T09:32:54+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1102a1c8b8e4098a1e1152388c9053c980ebbbc5670fd43f65727d7bc02aac8aaed1303b66aba869444e9a819e5e1ef6031d4a0680774d99fb9491424fd74f1945a14fd33c6c6664288107d9e3f6680f846de9571f0325d9fc1639eca3b1360cef523bac36f1b4039350bffc029ef6830044452d4845204672616e6b667572742d50696e6e77616e",
+  "source": "u",
+  "_age_days": 5.9,
+  "_manual": false
+ },
+ {
+  "public_key": "b98194e1bfad3b7632ee973ffd4baa3558a4262c81c7e3f804b707313e1b8958",
+  "type": 2,
+  "adv_name": "DE-HE-F VFDB Z05 #1",
+  "last_advert": "2026-11-25T22:35:17+00:00",
+  "lat": 50.1486,
+  "lon": 8.72804,
+  "inserted_date": "2026-09-26T12:43:35+00:00",
+  "updated_date": "2026-11-25T23:35:26+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10b3450000435ddc1908bf06b98194e1bfad3b7632ee973ffd4baa3558a4262c81c7e3f804b707313e1b8958b570076b3f4ea1b744041bff7b677a31f14f4020de05747c900eaa19af98db4ae6d7c60b8f11a9b380746bc47de71ea9e8c1f3c755e46c2ab05de1dc3375afe10456b50e920235fd02e82d850044452d48452d462056464442205a3035202331",
+  "source": "u",
+  "_age_days": 0.3,
   "_manual": false
  },
  {
@@ -2857,6 +3957,26 @@
   "link": "1102b418bcfe69d646a522d36e1b6784bcdcc7b16a50f4062ceb732ad0a9d53fa1955dac806aab696a1728858b1304adeb6d020e26cc89ef0d9899b9a5140eb8725144f0bfd12d63d608e5d12db4209f9a2e2b98ed94672a0f17ff513594916fcfa0025a6983d405920a6ffc02acc0830052657065617465722048534c20416c74626175",
   "source": "u",
   "_age_days": 0.1,
+  "_manual": false
+ },
+ {
+  "public_key": "bedfd22639ebc33c138739e2e9f4bb625a701ca7292052013c63dd4313adba8a",
+  "type": 2,
+  "adv_name": "de-he-Lheim-idg",
+  "last_advert": "2026-11-24T13:45:53+00:00",
+  "lat": 49.5905,
+  "lon": 8.46991,
+  "inserted_date": "2026-11-24T14:46:08+00:00",
+  "updated_date": "2026-11-24T17:31:45+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "114786156f058877c00156ee863441cfbedfd22639ebc33c138739e2e9f4bb625a701ca7292052013c63dd4313adba8a21a3056bf6a39963c976ddd41d8288e2ab742390e6d3549ab9e3af55b07c917458d429460c5069af1e7823f564724ccdcfc042e8e2c6bb91457f38ac1e0323e64088e1079216b1f402963d810064652d68652d4c6865696d2d696467",
+  "source": "u",
+  "_age_days": 1.6,
   "_manual": false
  },
  {
@@ -3017,6 +4137,26 @@
   "link": "100000000000c6801b2055bfe12e2be7ecae7a5d4f96b0fecc49f5b1e4eb5eaaa3625cab16adcfbe076b9a182495b34f8d1e61799440673b20ebdc1fa1760d754973242b84a4902886325b5468acb3a2dec66a921635eaa0efef4735f7fab1aecad345cc82981f1dad01920868fb024caa8b0044452d42592d4a4f4830312d486167656c686f66",
   "source": "u",
   "_age_days": 0.1,
+  "_manual": false
+ },
+ {
+  "public_key": "c6c9b8ceba58f5fc571391221ad25ea42c5024f5224031b76972e65a680786e1",
+  "type": 2,
+  "adv_name": "DE-HE-OF VFDB Z05 #2",
+  "last_advert": "2026-11-25T06:15:56+00:00",
+  "lat": 50.1044,
+  "lon": 8.75186,
+  "inserted_date": "2026-10-21T15:29:29+00:00",
+  "updated_date": "2026-11-25T07:14:46+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "118274f53a1e58bbc6c9b8ceba58f5fc571391221ad25ea42c5024f5224031b76972e65a680786e12c8b066b4415f85d32d66e78c3ce9c82787201c60836973ad53b1d86e657126b8c2c46e1ae98854d347f8c5a1f5a573253afcbfe013b1db24e2a4f0d20fce74cd180b904926488fc02f48a850044452d48452d4f462056464442205a3035202332",
+  "source": "u",
+  "_age_days": 1.0,
   "_manual": false
  },
  {
@@ -3200,6 +4340,26 @@
   "_manual": false
  },
  {
+  "public_key": "cf661d0ac04eae638ca38c32059ba9a0112777448f54721366f5521248a82901",
+  "type": 2,
+  "adv_name": "DE-HE-MTK-DO9STB-RPT",
+  "last_advert": "2026-11-26T01:59:31+00:00",
+  "lat": 50.1397,
+  "lon": 8.51409,
+  "inserted_date": "2026-09-20T12:46:05+00:00",
+  "updated_date": "2026-11-26T02:59:35+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1200cf661d0ac04eae638ca38c32059ba9a0112777448f54721366f5521248a8290193a0076bc6493af2504627568cbaf1469596913b8472157538cd524a5afd1ee5c7e0e9b98f66f9136fa60793883c8045b869173301c40c89fd5962ba0aee900ae036d00f920312fd0228ea810044452d48452d4d544b2d444f395354422d525054",
+  "source": "u",
+  "_age_days": 0.2,
+  "_manual": false
+ },
+ {
   "public_key": "d005e5ec96b5e9aac2eb1c2a05cf351a3ac7296a8b2d6edfefcd2d3da675595c",
   "type": 2,
   "adv_name": "DE.HE.OF# NIB-1 03",
@@ -3217,6 +4377,26 @@
   "link": "11024a5ad005e5ec96b5e9aac2eb1c2a05cf351a3ac7296a8b2d6edfefcd2d3da675595cd42c0c6b1ebd7b6b502df2ad69d533ea30d78325c7b01544202835a16c61944b4aeee13a2613cb3fad3ba273be2bc721586d1105561a1e0f2d6dcecda7b58bcc26c99206920ec6fb02f0bc840044452e48452e4f4623204e49422d31203033",
   "source": "u",
   "_age_days": 0.2,
+  "_manual": false
+ },
+ {
+  "public_key": "d045dfdd08fea32e88770bfa25fda344ac9d11e90f9f83083c279a5c2bde81fc",
+  "type": 2,
+  "adv_name": "MKK-SRP-FG01",
+  "last_advert": "2024-06-07T08:52:36+00:00",
+  "lat": 50.1365,
+  "lon": 9.14534,
+  "inserted_date": "2026-03-03T18:05:12+00:00",
+  "updated_date": "2026-11-24T10:24:02+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "114630b52eefb98134525ddcfc9cd045dfdd08fea32e88770bfa25fda344ac9d11e90f9f83083c279a5c2bde81fc74e662660c91f66e671f7e44dd2620ca688b7abd0d39277fa446694dba863fb8cbda442ec562c72e088f6df9a3ec9bbf2356e9334cd103b9d3af171a573a661214dcbb0b929e05fd02fc8b8b004d4b4b2d5352502d46473031",
+  "source": "u",
+  "_age_days": 1.9,
   "_manual": false
  },
  {
@@ -3320,6 +4500,26 @@
   "_manual": false
  },
  {
+  "public_key": "d56cc3260d36e0edaff403a3d62122cb45a33ca6aaa1f7ca08460cfbe447403d",
+  "type": 2,
+  "adv_name": "KatS-KG Test Fuota",
+  "last_advert": "2026-11-22T22:44:44+00:00",
+  "lat": 50.1469,
+  "lon": 9.7683,
+  "inserted_date": "2026-11-19T11:45:28+00:00",
+  "updated_date": "2026-11-22T23:45:13+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "105312000087074b0df0371b721425bf1efe792830a2a9d3b50926d56cc3260d36e0edaff403a3d62122cb45a33ca6aaa1f7ca08460cfbe447403d6c7e036b8002ae1d69c5303d938c7cb9e14e1927b9c1f83ec3856695caa785ca12463d63484fb75b77168ecffedd5a31a742fcaac44820e5a0d6e123c246dcac0fcc2a0b922c2efd026c0d95004b6174532d4b4720546573742046756f7461",
+  "source": "u",
+  "_age_days": 3.3,
+  "_manual": false
+ },
+ {
   "public_key": "d5b7304ded03c99ec8d35408666aa8d0d872d54e4a30a7d986d3dbd36c2cce30",
   "type": 2,
   "adv_name": "DE-HE-MTK-NS28R",
@@ -3380,6 +4580,26 @@
   "_manual": false
  },
  {
+  "public_key": "d83e7c0c00beef6c268a7250a8e33f1619b8bde64e59a1d4d11eb61881349803",
+  "type": 2,
+  "adv_name": "FrankfurtWest Repeater",
+  "last_advert": "2024-06-05T21:52:32+00:00",
+  "lat": 50.1302,
+  "lon": 8.66349,
+  "inserted_date": "2026-11-02T19:21:48+00:00",
+  "updated_date": "2026-11-24T10:27:00+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1104a45df4bfd83e7c0c00beef6c268a7250a8e33f1619b8bde64e59a1d4d11eb6188134980340fa60665e1799747bf9cd509d3824f9b2f0ff1202ec5ee3e89f259d732d257f17a85a8bdadbfae5f8138d91918df14f13beac0a5089823652c98ebe68d3ee6043a0f100924aedfc02c23184004672616e6b6675727457657374205265706561746572",
+  "source": "u",
+  "_age_days": 1.9,
+  "_manual": false
+ },
+ {
   "public_key": "d8a6babcc716f485c88cc44f6feffadfafd1af45e9b5dffb015c58e0e2c85e75",
   "type": 2,
   "adv_name": "Repeater-K2",
@@ -3436,7 +4656,27 @@
   },
   "link": "10a7b6000042b8bf38a1daa6ad0762af24762eeafc55153d29d840c4d3b2055fe2c981220aaa94206f8edecf076bdaa3ce6a1a99c81860c9264e10181ae76200fac084b81675f0f4fbe834a22521ae88d7a1579e122480f40c4db793e264fc8251bb82fdb86cc866f705d23fbe069288e0f80224e97e00444f355059205634205363687761627362757267",
   "source": "u",
-  "_age_days": 0.0,
+  "_age_days": 0.1,
+  "_manual": false
+ },
+ {
+  "public_key": "db8f22bcb28ac5a9d1ac40d1f218d32b2a760492f58dce83af426a72c26cf286",
+  "type": 2,
+  "adv_name": "DE-HE-F Europaviertel-1",
+  "last_advert": "2026-11-25T19:32:26+00:00",
+  "lat": 50.1081,
+  "lon": 8.64681,
+  "inserted_date": "2026-10-21T20:10:32+00:00",
+  "updated_date": "2026-11-25T21:03:13+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1105a4f70827b0db8f22bcb28ac5a9d1ac40d1f218d32b2a760492f58dce83af426a72c26cf286da45076b5500dfa3322899bda76355814a7af38c3a474f8fdd738a94a8b8aa251f76a2bbac8e4e897352e962a28293d9d35431b4038270e17e277d6036cc745735cd4d0392a696fc029af0830044452d48452d46204575726f70617669657274656c2d31",
+  "source": "u",
+  "_age_days": 0.4,
   "_manual": false
  },
  {
@@ -3477,6 +4717,26 @@
   "link": "11084ae69d29f73527b0ddbd93acd435fd3c35d2dcf0820f1817139cf30339082682a43ba61b387b5f7633786b66bcc81578b3b2631d2bdcf736043254d586625f470bfaef454baf32b00fdb5f6db26a2a86a77f042793d8fd8eaabe8a111d784986fc687e764bc633b70bcb8c0c92685bf9027bdb860064652e68652e64692031",
   "source": "u",
   "_age_days": 1.2,
+  "_manual": false
+ },
+ {
+  "public_key": "de405d5f3ea324905eb6a194d8cce7c7c54bc6f5d654ab8dbee06cb02425fbf2",
+  "type": 2,
+  "adv_name": "Fuato 17 Repeater",
+  "last_advert": "2026-11-22T05:27:18+00:00",
+  "lat": 50.1264,
+  "lon": 9.89474,
+  "inserted_date": "2026-11-21T21:26:39+00:00",
+  "updated_date": "2026-11-22T06:27:35+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1001d9000084a571295b9f0a265467cfe6c7de405d5f3ea324905eb6a194d8cce7c7c54bc6f5d654ab8dbee06cb02425fbf2468b026b41ef7120fd6ebc6702b979456035338dcaf0039f4e68a24e105b70878e6008671b0e63a4ec22eb00a02c3fb3f2e811bdb4bee5cbd24eea3e53ae23038e40740e9216defc0250fb9600467561746f203137205265706561746572",
+  "source": "u",
+  "_age_days": 4.0,
   "_manual": false
  },
  {
@@ -3580,6 +4840,26 @@
   "_manual": false
  },
  {
+  "public_key": "e529485fbed73677454aec8e51679a9ff4b4b375158630f7f5006746d0e77825",
+  "type": 3,
+  "adv_name": "olialb03",
+  "last_advert": "2026-11-11T07:27:25+00:00",
+  "lat": 50.1195,
+  "lon": 8.71554,
+  "inserted_date": "2026-11-11T08:27:40+00:00",
+  "updated_date": "2026-11-11T08:27:40+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "108e0900008358d8611ac4c36fff09e529485fbed73677454aec8e51679a9ff4b4b375158630f7f5006746d0e77825ed26f46a770cb80333c4ac46013af074f6e0e0eb12ff9a8227f9d663d0fb3901e6c2e68b8efb59f815609546966ce8025da3619cee8dfc11b8afd4378c30e6b075697e0d9356c3fc0214fd84006f6c69616c623033",
+  "source": "u",
+  "_age_days": 15.0,
+  "_manual": false
+ },
+ {
   "public_key": "e59a53b54200b63b747764b1386a0ce0da0fd9ccec36ab063e4ce7332fcfb660",
   "type": 2,
   "adv_name": "\ud83d\udc1dHeppenheim Nord",
@@ -3660,6 +4940,26 @@
   "_manual": false
  },
  {
+  "public_key": "e6f478764504d174a1e948201dbcaaae1dbfb8cc3f1d0ffa1125df423e434353",
+  "type": 2,
+  "adv_name": "DE-RP-MZ LBerg",
+  "last_advert": "2026-11-26T05:54:58+00:00",
+  "lat": 49.9621,
+  "lon": 8.18635,
+  "inserted_date": "2026-08-15T06:37:03+00:00",
+  "updated_date": "2026-11-26T06:56:18+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "108f30000043232b3830dccde6f478764504d174a1e948201dbcaaae1dbfb8cc3f1d0ffa1125df423e434353c2d7076b00dc9346711dc49b4871e4220043f690bed327d3e56b3bd70f71d47c43aef356ae549aaf44f8a307cf0a0db5af50bd055c7bba0862bb338b73f0714eefbc2808926d5cfa02ede97c0044452d52502d4d5a204c42657267",
+  "source": "u",
+  "_age_days": 0.0,
+  "_manual": false
+ },
+ {
   "public_key": "e6f801b30965056c363f26780b7de28e3d0131006239410aaf9e3e3cbf072f68",
   "type": 2,
   "adv_name": "de.he.di Naturfreunde",
@@ -3676,7 +4976,47 @@
   },
   "link": "1142314f2f05e6f801b30965056c363f26780b7de28e3d0131006239410aaf9e3e3cbf072f68958e4067552480ee873e2b9a8ac93f4538c0f78576129518d073c08765d63d19ff5e42f79e26c4fed174baa4a97c04257c98449a5e4fd13079089e7433d44500ed520a05925a77f90296d4850064652e68652e6469204e61747572667265756e6465",
   "source": "u",
-  "_age_days": 9.2,
+  "_age_days": 9.3,
+  "_manual": false
+ },
+ {
+  "public_key": "ead553dbd55047ad3868fbbd6ae1a08162e95ed14992783ecaec610f6783000a",
+  "type": 2,
+  "adv_name": "DE-63477-HE01",
+  "last_advert": "2026-11-19T20:57:23+00:00",
+  "lat": 50.1315,
+  "lon": 8.86092,
+  "inserted_date": "2026-05-01T13:58:43+00:00",
+  "updated_date": "2026-11-19T21:57:08+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1103897495ead553dbd55047ad3868fbbd6ae1a08162e95ed14992783ecaec610f6783000ac370ff6aabcc49e8604c42abe1526dbded46d46b76967a57a26184f4334cecd823aa6549d183b1a106b3278742e2d15a62facd8aa5af7834f3ff826e742afbcf50515507921bf2fc02fd34870044452d36333437372d48453031",
+  "source": "u",
+  "_age_days": 6.4,
+  "_manual": false
+ },
+ {
+  "public_key": "eb19034b48731944741de6b25934d41918a4f1b6c4ca50d5054d46b1bbb9966f",
+  "type": 2,
+  "adv_name": "DL6NDU-m / Rainer",
+  "last_advert": "2024-08-14T04:55:25+00:00",
+  "lat": 49.8994,
+  "lon": 9.81476,
+  "inserted_date": "2026-04-07T05:10:41+00:00",
+  "updated_date": "2026-11-07T16:46:58+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 5,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "110548b3a86685eb19034b48731944741de6b25934d41918a4f1b6c4ca50d5054d46b1bbb9966fdd54bc66338308151115f894eeb8a49a246af82846682cd09c41834bd9201e22ee7301fea6c670087ea4c6c3da08962b3b124490eaecd75ba9cbf2618b9bf9b89bd58701929267f902eac29500444c364e44552d6d202f205261696e6572",
+  "source": "u",
+  "_age_days": 18.6,
   "_manual": false
  },
  {
@@ -3697,6 +5037,26 @@
   "link": "10a87c00004232dfda3cebe062a71edf450e04cfea22548708f39ed020f7a604f2147fb668a994b15026ff4eea6ab741eaee465dfc65fa021db9deabd4fcc84fc9ccc9b5ae4f4363d69e7942672727ef45e326ceb646781fc38f3ca680374163d683672ca3ba9684cc41c1effc02926ab1f802bc387f0054657374205250204469656e6865696d",
   "source": "u",
   "_age_days": 22.4,
+  "_manual": false
+ },
+ {
+  "public_key": "edf5ff4e19df27412d46949b19009b93f51df970c1a4a350165ba5e26eea79bc",
+  "type": 2,
+  "adv_name": "TEST-2 DF5FF FUOTA1",
+  "last_advert": "2026-11-26T02:32:42+00:00",
+  "lat": 50.1291,
+  "lon": 8.85832,
+  "inserted_date": "2026-11-23T06:40:21+00:00",
+  "updated_date": "2026-11-26T03:32:49+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10d94f0000437df5298d1e58edf5ff4e19df27412d46949b19009b93f51df970c1a4a350165ba5e26eea79bc5aa8076b089b9870be13adc9f7baec9ce738da5aab0aa95dbbabf9c00058c662c067c8d39d313414e2dd74b728cb5a25bb7b3de292967bb1eed6043bac235007a86bfe0f92cce8fc02d02a8700544553542d322044463546462046554f544131",
+  "source": "u",
+  "_age_days": 0.2,
   "_manual": false
  },
  {
@@ -3737,6 +5097,26 @@
   "link": "1200efbc912e45e0dd9da46a13797a2df24f41fe526a0979099fb7a44593fa0a7af5b922076bd0eea361038d20fde23d9518e86a22feb4fc4bdeaf5ac7c0e2de98753c236fd9ef1c914b36ccbd46123f17255739a75e8196595f29f4a25297defd851055e209923641f9025b717d0053756974626572742d4d657368436f72652d5265706561",
   "source": "u",
   "_age_days": 0.6,
+  "_manual": false
+ },
+ {
+  "public_key": "f0371b7ebc19912c2dc479c95b1011c9f786af6a80d2db6b90cf18042794094c",
+  "type": 2,
+  "adv_name": "KatS-KG Sodenberg",
+  "last_advert": "2026-11-26T02:43:38+00:00",
+  "lat": 50.1058,
+  "lon": 9.80519,
+  "inserted_date": "2026-10-01T16:25:54+00:00",
+  "updated_date": "2026-11-26T03:44:02+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "101f060000857214250ab49180bfac850918a29333f0371b7ebc19912c2dc479c95b1011c9f786af6a80d2db6b90cf18042794094ceaaa076b24bdb1b81eb3e06ed86904309231678c00f3523cdaae476cb663071b4091b66a420a97ca8f4446577bd7133fc52117066c3eb0bf403dcfb7314e3068491ec00a92968dfc02869d95004b6174532d4b4720536f64656e62657267",
+  "source": "u",
+  "_age_days": 0.2,
   "_manual": false
  },
  {
@@ -3820,6 +5200,26 @@
   "_manual": false
  },
  {
+  "public_key": "f24594db0322961e2793f640581f43d6fa9e3c298c9305c0f318253e69cb87a5",
+  "type": 2,
+  "adv_name": "RLP-RP-Beindersheim",
+  "last_advert": "2026-11-04T04:13:06+00:00",
+  "lat": 49.5597,
+  "lon": 8.32011,
+  "inserted_date": "2026-07-11T02:14:39+00:00",
+  "updated_date": "2026-11-04T05:13:07+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "11021032f24594db0322961e2793f640581f43d6fa9e3c298c9305c0f318253e69cb87a5e2beea6af644b98e2a46374e0d7c906b3ff36201acbb4d5d97495bc18136139c687739c4af2ba56c236881c1d3fa4695b2389c0d314f8ff0a66a2646b1f64316d3fc5a0392bc38f4026ef47e00524c502d52502d4265696e646572736865696d",
+  "source": "u",
+  "_age_days": 22.1,
+  "_manual": false
+ },
+ {
   "public_key": "f416ab11a051cbda30b65a3d57d663990676c211b68176fa3e0a789b75702c91",
   "type": 2,
   "adv_name": "p1w85mz@putput.download",
@@ -3837,6 +5237,26 @@
   "link": "10f8c500000423e638f0f416ab11a051cbda30b65a3d57d663990676c211b68176fa3e0a789b75702c914059ea6ac9a1759964981ca0922c8c1a2fd53bd7de3151aa54b30f051e74e769cd9f99215fa9e54ff015d39e9176d4609c19b59f19141ab8ff713ba81405d6b4f926110692e021fb0260fe7d0070317738356d7a407075747075742e646f776e6c6f6164",
   "source": "u",
   "_age_days": 22.4,
+  "_manual": false
+ },
+ {
+  "public_key": "f42f6b6c46a122437b7cd466a0ec6584f5922511ea01a5b5eae0cf7ebc744998",
+  "type": 3,
+  "adv_name": "Room VFDB Z05 Ffm",
+  "last_advert": "2026-11-26T04:08:39+00:00",
+  "lat": 50.1353,
+  "lon": 8.65467,
+  "inserted_date": "2026-09-24T18:18:38+00:00",
+  "updated_date": "2026-11-26T05:08:36+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "107d6100004324a1b8bfb569f42f6b6c46a122437b7cd466a0ec6584f5922511ea01a5b5eae0cf7ebc744998d7be076ba24082ed0b225c7f0603778d9bdbda067e17b662a2820ba419e2792962b2115dfd99ce79aad55affa162d57c979399530cb7e244674eea153b5b099009edb008930e01fd024e0f8400526f6f6d2056464442205a30352046666d",
+  "source": "u",
+  "_age_days": 0.1,
   "_manual": false
  },
  {
@@ -3877,6 +5297,26 @@
   "link": "10b5070000848f71d932dfccd5eda71d4771f66505be1fcaadf93eff23256a91fcea11f19d53485b48b9ba522f1174193bc18a95046b4fe496dcde40ae4be9823e8b3a6c4d3a02d5fa29c324be2076343337bf0d6b70d0ae1f5368bac8f6553f68057be2f93b674fb0434a98ff48e07d33408026580d925f74f7021eed83005365656865696d2d5265706561746572",
   "source": "u",
   "_age_days": 2.5,
+  "_manual": false
+ },
+ {
+  "public_key": "f665d411f1e0f44bdd011402211a589ba1a5cea8222d585fe5fc471992a63592",
+  "type": 2,
+  "adv_name": "DE-HE-F-Dornbusch",
+  "last_advert": "2026-11-24T16:11:57+00:00",
+  "lat": 50.1387,
+  "lon": 8.6704,
+  "inserted_date": "2026-09-28T10:44:51+00:00",
+  "updated_date": "2026-11-23T13:11:46+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1200f665d411f1e0f44bdd011402211a589ba1a5cea8222d585fe5fc471992a635925dc5056b3e9cb93e30c196ceb60136188a230143b016c97c054aa280f75fd77cb8ab444e07e7764f1f5d5e0898e996df32d6ce4990bed3283cfae95c640a72071cfd210e922e0efd02c04c840044452d48452d462d446f726e6275736368",
+  "source": "u",
+  "_age_days": 2.8,
   "_manual": false
  },
  {
@@ -3997,6 +5437,46 @@
   "link": "11434afee6f83738fbf5823e8b0832d0f9531f71afa8af15327b0f5ae694518737a294e77da151249b71eb6abff6719f50a28d22bd3601b817f948d02515f19fd51864a4d669e5f8ba38e1c7776579be5ecce809be59ecd12f7ffb324287e9fb535656ab39873b2d92e86904920667f902089986004d697468726173303120e29880efb88f",
   "source": "u",
   "_age_days": 21.6,
+  "_manual": false
+ },
+ {
+  "public_key": "fc2c3c55cad9b65a7fb84acc1a15e331f4c4b62c2e2784a02434f75a2b5bfde8",
+  "type": 3,
+  "adv_name": "DE-63477-H03 Open Room",
+  "last_advert": "2026-03-02T22:00:05+00:00",
+  "lat": 50.1373,
+  "lon": 8.84936,
+  "inserted_date": "2026-10-28T11:52:42+00:00",
+  "updated_date": "2026-11-13T18:10:11+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "10ef3d000005ea896ab934fc2c3c55cad9b65a7fb84acc1a15e331f4c4b62c2e2784a02434f75a2b5bfde87516a669371cb1f760120d255b957aa5d654189a6365f6eb144c3fad46794866809bc6c96da9058ce60003726d5ee22293de4b40b1c443b23850b65acfb6162d9914e70a93ca08fd02d007870044452d36333437372d483033204f70656e20526f6f6d",
+  "source": "u",
+  "_age_days": 12.6,
+  "_manual": false
+ },
+ {
+  "public_key": "fce2c1744f0f38e8256bfc1dfcd5a5bce370e521c94d9099162f14fa4077ffb0",
+  "type": 2,
+  "adv_name": "Liederbach Repeater Sol",
+  "last_advert": "2026-11-22T04:02:43+00:00",
+  "lat": 50.1185,
+  "lon": 8.48916,
+  "inserted_date": "2026-06-30T19:51:37+00:00",
+  "updated_date": "2026-11-19T21:03:59+00:00",
+  "params": {
+   "freq": 869.618,
+   "cr": 8,
+   "sf": 8,
+   "bw": 62.5
+  },
+  "link": "1106434a5abfd5f0fce2c1744f0f38e8256bfc1dfcd5a5bce370e521c94d9099162f14fa4077ffb07377026bba9c5fc21b043535e627804a7bc6ea1aadc20d6b5b51c5b3f4fee580c66e1feb9040d647907e9ba8062fa4b8870ca0584f92c52fc397e71d320e50b1565ba908923cbffc02c88881004c69656465726261636820526570656174657220536f6c",
+  "source": "u",
+  "_age_days": 6.4,
   "_manual": false
  },
  {
