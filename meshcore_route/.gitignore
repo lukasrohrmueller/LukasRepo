@@ -1,1 +1,3 @@
 data/nodes_raw.json
+data/dem/
+data/dem_crop.npy
