@@ -73,9 +73,14 @@ def analyze(dem, m, a, b, ha, hb, k=4 / 3, step=30.0):
     clr = los - (z + bulge)                             # Freiraum ueber Hindernis
     ratio = clr[1:-1] / f1[1:-1]                        # Anteil der Fresnel-Zone, der frei ist
     i = int(np.argmin(ratio))
+    # Beugungsdaempfung: dominante Kante (Knife-Edge, ITU-R P.526). Naeherung: nur EIN Hindernis,
+    # mehrere Kanten wuerden mehr Daempfung ergeben (also eher zu optimistisch bei Huegelketten).
+    v = (-clr[1:-1]) * np.sqrt(2 * D / (LAMBDA * d[1:-1] * (D - d[1:-1])))
+    vm = float(v.max())
+    diff = 0.0 if vm <= -0.78 else 6.9 + 20 * math.log10(math.sqrt((vm - 0.1) ** 2 + 1) + vm - 0.1)
     fspl = 32.45 + 20 * math.log10(FREQ_MHZ) + 20 * math.log10(D / 1000)
     return {"km": D / 1000, "min_ratio": float(ratio[i]), "worst_km": float(d[i + 1] / 1000),
-            "clear_m": float(clr[i + 1]), "fspl": fspl}
+            "clear_m": float(clr[i + 1]), "fspl": fspl, "diff": diff}
 
 
 # ---------------------------------------------------------------- Routing
@@ -111,7 +116,8 @@ def main():
     ap.add_argument("--end", nargs=3, type=float, default=[*FAULBACH, 10.0], metavar=("LAT", "LON", "H"))
     ap.add_argument("--rep-h", type=float, default=10.0, help="ANNAHME Repeater-Antennenhoehe ueber DSM (m)")
     ap.add_argument("--max-hop-km", type=float, default=30.0)
-    ap.add_argument("--fresnel", type=float, default=0.6, help="geforderter freier Anteil der 1. Fresnel-Zone")
+    ap.add_argument("--fresnel", type=float, default=None,
+                    help="optional: harte Bedingung, freier Anteil der 1. Fresnel-Zone (z.B. 0.6). Standard: aus, Beugung zaehlt")
     # ANNAHMEN Link-Budget (nicht gemessen):
     ap.add_argument("--tx-dbm", type=float, default=22.0)
     ap.add_argument("--gain-dbi", type=float, default=2.0, help="je Antenne")
@@ -134,7 +140,7 @@ def main():
     print(f"{len(reps)} Repeater -> {len(nodes)-2} nach Duplikat-Zusammenfassung")
     print(f"ANNAHMEN: Repeater-Antenne {a.rep_h} m, START {a.start[2]} m, ZIEL {a.end[2]} m ueber DSM; "
           f"TX {a.tx_dbm} dBm, {a.gain_dbi} dBi je Antenne, Empfindlichkeit {a.sens_dbm} dBm, "
-          f"Mindestreserve {a.min_margin_db} dB, Fresnel >= {a.fresnel:.0%}, max {a.max_hop_km} km/Hop\n")
+          f"Mindestreserve {a.min_margin_db} dB, Fresnel-Pflicht: {a.fresnel}, Beugung Knife-Edge, max {a.max_hop_km} km/Hop\n")
 
     # Kanten: nur Paare unter max-hop-km; Link gilt bei freier Fresnel-Zone UND genug Reserve
     adj = {n["id"]: {} for n in nodes}
@@ -146,8 +152,8 @@ def main():
                 continue
             r = analyze(dem, m, (A["lat"], A["lon"]), (B["lat"], B["lon"]), A["h"], B["h"])
             tried += 1
-            r["reserve"] = a.tx_dbm + 2 * a.gain_dbi - r["fspl"] - a.sens_dbm
-            if r["min_ratio"] >= a.fresnel and r["reserve"] >= a.min_margin_db:
+            r["reserve"] = a.tx_dbm + 2 * a.gain_dbi - r["fspl"] - r["diff"] - a.sens_dbm
+            if (a.fresnel is None or r["min_ratio"] >= a.fresnel) and r["reserve"] >= a.min_margin_db:
                 adj[A["id"]][B["id"]] = adj[B["id"]][A["id"]] = r
                 ok += 1
     print(f"Paare geprueft: {tried}, davon nutzbar: {ok}")
@@ -158,7 +164,7 @@ def main():
     # --- Kritische Stelle: Nachbarn von Faulbach
     print("\n== Faulbach (ZIEL): erreichbare Repeater (Fresnel frei, Reserve ok) ==")
     for v, e in sorted(adj["ZIEL"].items(), key=lambda kv: kv[1]["km"]):
-        print(f"  {byid[v]['name'][:30]:30} {e['km']:5.1f} km  Fresnel-frei {e['min_ratio']:.2f}  Reserve {e['reserve']:.0f} dB")
+        print(f"  {byid[v]['name'][:30]:30} {e['km']:5.1f} km  Fresnel-frei {e['min_ratio']:.2f}  Beugung {e['diff']:.0f} dB  Reserve {e['reserve']:.0f} dB")
     if not adj["ZIEL"]:
         # Naechster Kandidat, der knapp scheitert: zeigt, woran es liegt
         print("  KEINE. Naechste Repeater und woran die Strecke scheitert:")
@@ -166,7 +172,7 @@ def main():
         for n in near:
             r = analyze(dem, m, (a.end[0], a.end[1]), (n["lat"], n["lon"]), a.end[2], n["h"])
             print(f"  {n['name'][:30]:30} {r['km']:5.1f} km  Fresnel-frei {r['min_ratio']:.2f} "
-                  f"(Engstelle bei {r['worst_km']:.1f} km, Freiraum {r['clear_m']:.0f} m)")
+                  f"(Engstelle bei {r['worst_km']:.1f} km, Freiraum {r['clear_m']:.0f} m) Beugung {r['diff']:.0f} dB")
 
     # --- Pfade ab Faulbach
     for title, key in (("kuerzester laengster Hop", lambda e: e["km"]),
@@ -188,7 +194,7 @@ def main():
         for u, v in zip(p, p[1:]):
             e = adj[u][v]
             print(f"  {byid[u]['name'][:26]:26} -> {byid[v]['name'][:26]:26} {e['km']:5.1f} km  "
-                  f"Fresnel {e['min_ratio']:.2f}  Reserve {e['reserve']:.0f} dB")
+                  f"Fresnel {e['min_ratio']:.2f}  Beugung {e['diff']:.0f} dB  Reserve {e['reserve']:.0f} dB")
         worst = min((adj[u][v] for u, v in zip(p, p[1:])), key=lambda e: e["reserve"])
         print(f"  Engpass: laengste Strecke {max(adj[u][v]['km'] for u,v in zip(p,p[1:])):.1f} km, "
               f"schwaechste Reserve {worst['reserve']:.0f} dB")

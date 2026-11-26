@@ -18,8 +18,8 @@ a = ap.parse_args()
 
 dem, m = s.load_dem()
 reps = json.load(open(s.HERE / "data/repeaters_filtered.json"))
-reserve = lambda r: 22 + 4 - r["fspl"] + 130          # gleiche Annahmen wie step2 (Defaults)
-ok = lambda r: r["min_ratio"] >= 0.6 and reserve(r) >= a.min_margin_db
+reserve = lambda r: 22 + 4 - r["fspl"] - r["diff"] + 130   # gleiche Annahmen wie step2 (Defaults)
+ok = lambda r: reserve(r) >= a.min_margin_db
 F = s.FAULBACH
 dlat = a.grid_m / 111320
 dlon = a.grid_m / (111320 * math.cos(math.radians(F[0])))
